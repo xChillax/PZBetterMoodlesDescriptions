@@ -1,14 +1,14 @@
 Moodles_JP = {
 -- Endurance
-Moodles_endurance_desc_lvl1 = "適度な運動量<br>近接ダメージ-50%<br>攻撃速度-7%<br>転倒確率+10%<br>よじ登り成功率-5%<br>移動速度-15%",
-Moodles_endurance_desc_lvl2 = "激しい運動量<br>近接ダメージ-80%<br>攻撃速度-14%<br>転倒確率+20%<br>よじ登り成功率-10%<br>移動速度-30%<br>全力疾走できなくなる",
-Moodles_endurance_desc_lvl3 = "過度の運動量<br>近接ダメージ-90%<br>攻撃速度-21%<br>転倒確率+30%<br>よじ登り成功率-15%<br>移動速度-45%<br>走る/エクササイズができなくなる",
-Moodles_endurance_desc_lvl4 = "ヘトヘトになった<br>近接ダメージ-95%<br>攻撃速度-28%<br>転倒確率+40%<br>よじ登り成功率-20%<br>移動速度-60%<br>歩行速度低下/エクササイズ/重い武器使用不可",
+Moodles_endurance_desc_lvl1 = "適度な運動量<br>近接ダメージ-50%<br>攻撃速度-0.07<br>転倒確率+10%<br>よじ登り成功率-5%<br>移動速度-15%",
+Moodles_endurance_desc_lvl2 = "激しい運動量<br>近接ダメージ-80%<br>攻撃速度-0.14<br>転倒確率+20%<br>よじ登り成功率-10%<br>移動速度-30%<br>全力疾走できなくなる",
+Moodles_endurance_desc_lvl3 = "過度の運動量<br>近接ダメージ-90%<br>攻撃速度-0.21<br>転倒確率+30%<br>よじ登り成功率-15%<br>移動速度-45%<br>走る/エクササイズができなくなる",
+Moodles_endurance_desc_lvl4 = "ヘトヘトになった<br>近接ダメージ-95%<br>攻撃速度-0.28<br>転倒確率+40%<br>よじ登り成功率-20%<br>移動速度-60%<br>歩行速度低下/エクササイズ/重い武器使用不可",
 -- Heavy load
-Moodles_heavyload_desc_lvl1 = "まあまあな重さ<br>クリティカル-5%<br>攻撃速度-7%<br>転倒確率+13%<br>よじ登り成功率-8%<br>移動速度-15%<br>スタミナ消費増加",
-Moodles_heavyload_desc_lvl2 = "重い<br>クリティカル-10%<br>攻撃速度-14%<br>転倒確率+26%<br>よじ登り成功率-16%<br>移動速度-30%<br>スタミナ消費増加<br>全力疾走できなくなる<br>徐々にHP減少",
-Moodles_heavyload_desc_lvl3 = "とても重い<br>クリティカル-15%<br>攻撃速度-21%<br>転倒確率+39%<br>よじ登り成功率-24%<br>移動速度-45%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
-Moodles_heavyload_desc_lvl4 = "重過ぎる<br>クリティカル-20%<br>攻撃速度-28%<br>転倒確率+52%<br>よじ登り成功率-32%<br>移動速度-60%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
+Moodles_heavyload_desc_lvl1 = "まあまあな重さ<br>クリティカル-5%<br>攻撃速度-0.07<br>転倒確率+13%<br>よじ登り成功率-8%<br>移動速度-15%<br>スタミナ消費増加",
+Moodles_heavyload_desc_lvl2 = "重い<br>クリティカル-10%<br>攻撃速度-0.14<br>転倒確率+26%<br>よじ登り成功率-16%<br>移動速度-30%<br>スタミナ消費増加<br>全力疾走できなくなる<br>徐々にHP減少",
+Moodles_heavyload_desc_lvl3 = "とても重い<br>クリティカル-15%<br>攻撃速度-0.21<br>転倒確率+39%<br>よじ登り成功率-24%<br>移動速度-45%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
+Moodles_heavyload_desc_lvl4 = "重過ぎる<br>クリティカル-20%<br>攻撃速度-0.28<br>転倒確率+52%<br>よじ登り成功率-32%<br>移動速度-60%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
 -- Tired
 Moodles_tired_desc_lvl1 = "眠気<br>近接ダメージ-50%<br>視界と認識範囲の低下<br>筋肉痛<br>スタミナ回復減少",
 Moodles_tired_desc_lvl2 = "疲れた<br>近接ダメージ-80%<br>さらに視界と認識範囲の低下<br>筋肉痛<br>スタミナ回復減少",

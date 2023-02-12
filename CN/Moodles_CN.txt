@@ -1,10 +1,10 @@
 Moodles_CN = {
 	-- Description of moodle
 	-- Endurance
-	Moodles_endurance_desc_lvl1 = "-50%近战伤害。-7%攻速<br>+10%被绊倒几率<br>-5%攀爬成功率<br>-15%移速。",
-	Moodles_endurance_desc_lvl2 = "-80%近战伤害。-14%攻速<br>+20%被绊倒几率<br>-10%攀爬成功率<br>-30%移速<br>无法冲刺",
-	Moodles_endurance_desc_lvl3 = "-90%近战伤害。-21%攻速<br>+30%被绊倒几率<br>-15%攀爬成功率<br>-45%移速<br>无法奔跑/锻炼",
-	Moodles_endurance_desc_lvl4 = "-95%近战伤害。-28%攻速<br>+40%被绊倒几率<br>-20%攀爬成功率<br>-60%移速<br>无法奔跑/锻炼/使用重型武器",
+	Moodles_endurance_desc_lvl1 = "-50%近战伤害。-0.07攻速<br>+10%被绊倒几率<br>-5%攀爬成功率<br>-15%移速。",
+	Moodles_endurance_desc_lvl2 = "-80%近战伤害。-0.14攻速<br>+20%被绊倒几率<br>-10%攀爬成功率<br>-30%移速<br>无法冲刺",
+	Moodles_endurance_desc_lvl3 = "-90%近战伤害。-0.21攻速<br>+30%被绊倒几率<br>-15%攀爬成功率<br>-45%移速<br>无法奔跑/锻炼",
+	Moodles_endurance_desc_lvl4 = "-95%近战伤害。-0.28攻速<br>+40%被绊倒几率<br>-20%攀爬成功率<br>-60%移速<br>无法奔跑/锻炼/使用重型武器",
 	-- Stress
 	Moodles_stress_desc_lvl1 = "25%压力值<br>无影响",
 	Moodles_stress_desc_lvl2 = "50%压力值<br>-10%近战伤害。忧郁值上涨",
@@ -71,10 +71,10 @@ Moodles_CN = {
 	Moodles_pain_desc_lvl3 = "+15%被绊倒几率<br>-20%伤害/攻速/移速<br>无法入睡",
 	Moodles_pain_desc_lvl4 = "+20%被绊倒几率<br>-35%伤害/攻速/移速<br>无法入睡/锻炼",
 	-- Heavy load
-	Moodles_heavyload_desc_lvl1 = "+13%被绊倒几率<br>-5%暴击率<br>-7%攻速<br>-8%攀爬成功率<br>-15%移速<br>降低耐力",
-	Moodles_heavyload_desc_lvl2 = "+26%被绊倒几率<br>-10%暴击率<br>-14%攻速<br>-16%攀爬成功率<br>-30%移速<br>降低耐力<br>无法冲刺<br>流失生命值",
-	Moodles_heavyload_desc_lvl3 = "+39%被绊倒几率<br>-15%暴击率<br>-21%攻速<br>-24%攀爬成功率<br>-45%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
-	Moodles_heavyload_desc_lvl4 = "+52%被绊倒几率<br>-20%暴击率<br>-28%攻速<br>-32%攀爬成功率<br>-60%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
+	Moodles_heavyload_desc_lvl1 = "+13%被绊倒几率<br>-5%暴击率<br>-0.07攻速<br>-8%攀爬成功率<br>-15%移速<br>降低耐力",
+	Moodles_heavyload_desc_lvl2 = "+26%被绊倒几率<br>-10%暴击率<br>-0.14攻速<br>-16%攀爬成功率<br>-30%移速<br>降低耐力<br>无法冲刺<br>流失生命值",
+	Moodles_heavyload_desc_lvl3 = "+39%被绊倒几率<br>-15%暴击率<br>-0.21攻速<br>-24%攀爬成功率<br>-45%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
+	Moodles_heavyload_desc_lvl4 = "+52%被绊倒几率<br>-20%暴击率<br>-0.28攻速<br>-32%攀爬成功率<br>-60%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
 	-- Drunk
 	Moodles_drunk_desc_lvl1 = "10%醉酒度<br>轻微提升疲劳上涨速度/载具操作延迟<br>稍微降低精准度/身体产热",
 	Moodles_drunk_desc_lvl2 = "30%醉酒度<br>提升疲劳上涨速度/载具操作延迟<br>降低精准度/身体产热",
