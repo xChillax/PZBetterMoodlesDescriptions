@@ -8,7 +8,7 @@ Moodles_EN = {
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "100%^ Over capacity<br>-5% crit. chance<br>-7% attack speed<br>+13% trip chance while vaulting<br>-8% chance of climbing over tall fences<br>-19% speed<br>-2% frontal zombie attack blockage<br>slightly reduced endurance regen",
 	Moodles_heavyload_desc_lvl2 = "125%^ Over capacity<br>-10% crit. chance<br>-14% attack speed<br>+26% trip chance while vaulting<br>-16% chance of climbing over tall fences<br>-37% speed<br>-4% frontal zombie attack blockage<br>reduced endurance regen<br>can't sprint",
-	Moodles_heavyload_desc_lvl3 = "150%^ Over capacity<br>-15% crit. chance<br>-21% attack speed<br>+39% trip chance while vaulting<br>-24% chance of climbing over tall fences<br>-56% speed<br>-6% frontal zombie attack blockage<br>impaired endurance regen<br>can't run<br>can't exercise<br>losing HP",
+	Moodles_heavyload_desc_lvl3 = "150%^ Over capacity<br>-15% crit. chance<br>-21% attack speed<br>+39% trip chance while vaulting<br>-24% chance of climbing over tall fences<br>-56% speed<br>-6% frontal zombie attack blockage<br>impaired endurance regeneration<br>can't run<br>can't exercise<br>losing HP",
 	Moodles_heavyload_desc_lvl4 = "175%^ Over capacity<br>-20% crit. chance<br>-28% attack speed<br>+52% trip chance while vaulting<br>-32% chance of climbing over tall fences<br>-75% speed<br>-8% frontal zombie attack blockage<br>loses endurance<br>can't run<br>can't exercise<br>losing HP",
 	-- Tired
 	Moodles_tired_desc_lvl1 = "60%^ Tired<br>foraging vision reduced<br>-50% melee damage<br>accuracy decreases<br>vision decreases<br>awareness decreases<br>increased muscle stiffness<br>slow endurance regaind<br>-3% frontal zombie attack blockage",
