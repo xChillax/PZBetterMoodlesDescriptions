@@ -84,7 +84,7 @@ Moodles_EN = {
 	Moodles_injured_desc_lvl4 = "25%v HP<br>-3 carrying capacity",
 	-- Pain
 	Moodles_pain_desc_lvl1 = "10%^ in Pain<br>foraging vision reduced<br>+5% trip chance while vaulting",
-	Moodles_pain_desc_lvl2 = "20%^ in Pain<br>less foraging vision<br>+10% trip chance while vaulting<br>-15% attack damage<br>-15% attack speed<br>-15% speed<br>can't can't",
+	Moodles_pain_desc_lvl2 = "20%^ in Pain<br>less foraging vision<br>+10% trip chance while vaulting<br>-15% attack damage<br>-15% attack speed<br>-15% speed<br>can't sleep",
 	Moodles_pain_desc_lvl3 = "50%^ in Pain<br>even less foraging vision<br>+15% trip chance while vaulting<br>-20% attack damage<br>-15% attack speed<br>-15% speed<br>can't sleep",
 	Moodles_pain_desc_lvl4 = "75%^ in Pain<br>worse foraging vision<br>+20% trip chance while vaulting<br>-35% attack damage<br>-15% attack speed<br>-15% speed<br>can't sleep<br>can't exercise",
 	-- Bleeding
