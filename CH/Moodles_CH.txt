@@ -1,15 +1,15 @@
 Moodles_CH = {
 	-- Description of moodle
 	-- 耐力 Endurance
-	Moodles_endurance_desc_lvl1 = "-50%近戰傷害。-0.07攻速<br>+10%被絆倒機率<br>-5%攀爬成功率<br>-15%移動速度。",
-	Moodles_endurance_desc_lvl2 = "-80%近戰傷害。-0.14攻速<br>+20%被絆倒機率<br>-10%攀爬成功率<br>-30%移動速度<br>無法衝刺",
-	Moodles_endurance_desc_lvl3 = "-90%近戰傷害。-0.21攻速<br>+30%被絆倒機率<br>-15%攀爬成功率<br>-45%移動速度<br>無法奔跑、鍛煉",
-	Moodles_endurance_desc_lvl4 = "-95%近戰傷害。-0.28攻速<br>+40%被絆倒機率<br>-20%攀爬成功率<br>-60%移動速度<br>無法奔跑、鍛煉、使用重型武器",
+	Moodles_endurance_desc_lvl1 = "-50%近戰傷害。-7%攻速<br>+10%被絆倒機率<br>-5%攀爬成功率<br>-15%移動速度。",
+	Moodles_endurance_desc_lvl2 = "-80%近戰傷害。-14%攻速<br>+20%被絆倒機率<br>-10%攀爬成功率<br>-30%移動速度<br>無法衝刺",
+	Moodles_endurance_desc_lvl3 = "-90%近戰傷害。-21%攻速<br>+30%被絆倒機率<br>-15%攀爬成功率<br>-45%移動速度<br>無法奔跑、鍛煉",
+	Moodles_endurance_desc_lvl4 = "-95%近戰傷害。-28%攻速<br>+40%被絆倒機率<br>-20%攀爬成功率<br>-60%移動速度<br>無法奔跑、鍛煉、使用重型武器",
 	-- 重物 Heavy load
-	Moodles_heavyload_desc_lvl1 = "+13%被絆倒機率<br>-5%暴擊率<br>-0.07攻速<br>-8%攀爬成功率<br>-15%移動速度<br>降低耐力",
-	Moodles_heavyload_desc_lvl2 = "+26%被絆倒機率<br>-10%暴擊率<br>-0.14攻速<br>-16%攀爬成功率<br>-30%移動速度<br>降低耐力<br>無法衝刺<br>流失生命值",
-	Moodles_heavyload_desc_lvl3 = "+39%被絆倒機率<br>-15%暴擊率<br>-0.21攻速<br>-24%攀爬成功率<br>-45%移動速度<br>降低耐力<br>無法奔跑<br>流失生命值",
-	Moodles_heavyload_desc_lvl4 = "+52%被絆倒機率<br>-20%暴擊率<br>-0.28攻速<br>-32%攀爬成功率<br>-60%移動速度<br>降低耐力<br>無法奔跑<br>流失生命值",
+	Moodles_heavyload_desc_lvl1 = "+13%被絆倒機率<br>-5%暴擊率<br>-7%攻速<br>-8%攀爬成功率<br>-15%移動速度<br>降低耐力",
+	Moodles_heavyload_desc_lvl2 = "+26%被絆倒機率<br>-10%暴擊率<br>-14%攻速<br>-16%攀爬成功率<br>-30%移動速度<br>降低耐力<br>無法衝刺<br>流失生命值",
+	Moodles_heavyload_desc_lvl3 = "+39%被絆倒機率<br>-15%暴擊率<br>-21%攻速<br>-24%攀爬成功率<br>-45%移動速度<br>降低耐力<br>無法奔跑<br>流失生命值",
+	Moodles_heavyload_desc_lvl4 = "+52%被絆倒機率<br>-20%暴擊率<br>-28%攻速<br>-32%攀爬成功率<br>-60%移動速度<br>降低耐力<br>無法奔跑<br>流失生命值",
 	-- 疲勞 Tired
 	Moodles_tired_desc_lvl1 = "-50%近戰傷害。降低視野、聽覺以及肌肉痠痛與耐力回復程度",
 	Moodles_tired_desc_lvl2 = "-80%近戰傷害。進一步降低視野、聽覺以及肌肉痠痛與耐力回復程度",
