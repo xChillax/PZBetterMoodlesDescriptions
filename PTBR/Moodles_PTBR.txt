@@ -1,0 +1,109 @@
+Moodles_PTBR = {
+-- Description of moodle:
+-- Endurance
+Moodles_endurance_desc_lvl1 = "-50% dano corpo-a-corpo.<br>-0.07 velocidade de ataque<br>+10% chance de tropecar<br>-5% chance de escalada<br>-15% velocidade",
+Moodles_endurance_desc_lvl2 = "-80% dano corpo-a-corpo.<br>-0.14 velocidade de ataque<br>+20% chance de tropecar<br>-10% chance de escalada<br>-30% velocidade<br>impossivel correr",
+Moodles_endurance_desc_lvl3 = "-90% dano corpo-a-corpo.<br>-0.21 velocidade de ataque<br>+30% chance de tropecar<br>-15% chance de escalada<br>-45% velocidade<br>impossivel correr/se exercitar",
+Moodles_endurance_desc_lvl4 = "-95% dano corpo-a-corpo.<br>-0.28 velocidade de ataque<br>+40% chance de tropecar<br>-20% chance de escalada<br>-60% velocidade<br>impossivel correr/exercitar/usar armas pesadas",
+-- Heavy load
+Moodles_heavyload_desc_lvl1 = "-5% chance de critico<br>-0.07 velocidade de ataque<br>+13% chance de tropecar<br>-8% chance de escalada<br>-15% velocidade<br>resistencia diminuida",
+Moodles_heavyload_desc_lvl2 = "-10% chance de critico<br>-0.14 velocidade de ataque<br>+26% chance de tropecar<br>-16% chance de escalada<br>-30% velocidade<br>resistencia diminuida<br>impossivel correr<br>perdendo HP",
+Moodles_heavyload_desc_lvl3 = "-15% chance de critico<br>-0.21 velocidade de ataque<br>+39% chance de tropecar<br>-24% chance de escalada<br>-45% velocidade<br>resistencia diminuida<br>impossivel correr/se exercitar<br>perdendo HP",
+Moodles_heavyload_desc_lvl4 = "-20% chance de critico<br>-0.28 velocidade de ataque<br>+52% chance de tropecar<br>-32% chance de escalada<br>-60% velocidade<br>resistencia diminuida<br>impossivel correr/se exercitar<br>perdendo HP",
+-- Tired
+Moodles_tired_desc_lvl1 = "-50% dano corpo-a-corpo.<br>Visao e percepcao um pouco reduzida<br>cansaco muscular aumentado<br>diminuido o ganho de resistencia",
+Moodles_tired_desc_lvl2 = "-80% dano corpo-a-corpo.<br>Visao e percepcao reduzidas<br>cansaco muscular aumentado<br>Diminuido ainda mais o ganho de resistencia",
+Moodles_tired_desc_lvl3 = "-90% dano corpo-a-corpo.<br>Visao e percepcao muito reduzidas<br>cansaco muscular aumentado<br>ganho de resistencia extremamente reduzido<br>pode dormir ao menos que esteja com muita dor",
+Moodles_tired_desc_lvl4 = "-95% dano corpo-a-corpo.<br>Visao e percepcao extremamente reduzidas, nao pode ver nada atras de voce<br>cansaco muscular aumentado<br>nao recupera a resistencia<br>pode dormir ao menos que esteja com muita dor",
+-- CantSprint
+Moodles_CantSprint_desc = "roupas pesadas, bolsas ou itens estao atrapalhando voce! impossivel correr",
+-- Thirsty
+Moodles_thirst_desc_lvl1 = "13%^ Sede, sem efeitos",
+Moodles_thirst_desc_lvl2 = "25%^ Sede<br>-10% forca<br>-10% velocidade de cura<br>calor corporal aumentando",
+Moodles_thirst_desc_lvl3 = "70%^ Sede<br>-20% forca<br>-20% velocidade de cura<br>calor corporal aumentando rapidamente",
+Moodles_thirst_desc_lvl4 = "85%^ Sede<br>-20% forca<br>-30% velocidade de cura<br>calor corporal aumentando extremamente rapido<br>perdendo HP",
+-- Hungry
+Moodles_hungry_desc_lvl1 = "15%^ Fome, sem efeitos",
+Moodles_hungry_desc_lvl2 = "25%^ Fome<br>-10% forca<br>-15% calor corporal<br>-10% velocidade de cura",
+Moodles_hungry_desc_lvl3 = "45%^ Fome<br>-20% forca<br>-35% calor corporal<br>-20% velocidade de cura",
+Moodles_hungry_desc_lvl4 = "70%^ Fome<br>-20% forca<br>-50% calor corporal<br>-30% velocidade de cura<br>perdendo HP",
+-- Food eaten
+Moodles_foodeaten_desc_lvl1 = "+2 capacidade de carga<br>+15% velocidade de cura",
+Moodles_foodeaten_desc_lvl2 = "+2 capacidade de carga<br>+30% velocidade de cura",
+Moodles_foodeaten_desc_lvl3 = "+2 capacidade de carga<br>+45% velocidade de cura<br>nao pode mais comer nada",
+Moodles_foodeaten_desc_lvl4 = "+2 capacidade de carga<br>+60% velocidade de cura<br>nao pode mais comer nada",
+-- Drunk
+Moodles_drunk_desc_lvl1 = "10%^ Bebado<br>diminui um pouco o tedio<br>aumenta um pouco o cansaco e prejudica um pouco a direcao de veiculos<br>precisao e calor corporal pouco reduzidos",
+Moodles_drunk_desc_lvl2 = "30%^ Bebado<br>diminui o tedio<br>aumenta o cansaco e prejudica a direcao de veiculos<br>precisao e calor corporal reduzidos",
+Moodles_drunk_desc_lvl3 = "50%^ Bebado<br>diminui o tedio rapidamente<br>aumenta muito o cansaco e prejudica muito a direcao de veiculos<br>precisao e calor corporal muito reduzidos",
+Moodles_drunk_desc_lvl4 = "70%^ Bebado<br>diminui o tedio extremamente rapido<br>aumenta extremamente o cansaco e prejudica extremamente a direcao de veiculos<br>precisao e calor corporal extremamente reduzidos",
+-- Bored
+Moodles_bored_desc_lvl1 = "25%^ Entediado, sem efeitos",
+Moodles_bored_desc_lvl2 = "50%^ Entediado<br>tristeza aumentando lentamente",
+Moodles_bored_desc_lvl3 = "75%^ Entediado<br>tristeza aumentando rapidamente",
+Moodles_bored_desc_lvl4 = "90%^ Entediado<br>tristeza aumentando extremamente rapido",
+-- Unhappy
+Moodles_unhappy_desc_lvl1 = "20%^ Triste<br>-10% velocidade de acoes",
+Moodles_unhappy_desc_lvl2 = "45%^ Triste<br>-20% velocidade de acoes",
+Moodles_unhappy_desc_lvl3 = "60%^ Triste<br>-30% velocidade de acoes",
+Moodles_unhappy_desc_lvl4 = "80%^ Triste<br>-40% velocidade de acoes",
+-- Stress
+Moodles_stress_desc_lvl1 = "25%^ Estressado, sem efeitos",
+Moodles_stress_desc_lvl2 = "50%^ Estressado<br>-10% dano corpo-a-corpo.<br>tristeza aumentando lentamente",
+Moodles_stress_desc_lvl3 = "75%^ Estressado<br>-20% dano corpo-a-corpo.<br>tristeza aumentando rapidamente",
+Moodles_stress_desc_lvl4 = "90%^ Estressado<br>-30% dano corpo-a-corpo.<br>tristeza aumentando extremamente rapido",
+-- Panic
+Moodles_panic_desc_lvl1 = "-1,3% chance de critico<br>lentidao ao recarregar e engatilhar armas de fogo",
+Moodles_panic_desc_lvl2 = "-2,3% chance de critico<br>-10% dano corpo-a-corpo.<br>se levanta mais rapidamente quando esta sentado<br>diminui a chance de empurrar/derrubar diminui a precisao, velocidade de recarga e engatilhamento",
+Moodles_panic_desc_lvl3 = "-3,9% chance de critico<br>-20% dano corpo-a-corpo.<br>se levanta mais rapidamente quando esta sentado<br>diminui muito a chance de empurrar/derrubar diminui muito a precisao, velocidade de recarga e engatilhamento",
+Moodles_panic_desc_lvl4 = "-5,2% chance de critico<br>-30% dano corpo-a-corpo.<br>se levanta mais rapidamente quando esta sentado<br>visao reduzida<br>diminui extremamente a chance de empurrar/derrubar diminui extremamente a precisao, velocidade de recarga e engatilhamento",
+-- Wet
+Moodles_wet_desc_lvl1 = "15%^ Molhado, sem efeitos",
+Moodles_wet_desc_lvl2 = "40%^ Molhado<br>pequena chance de pegar um resfriado",
+Moodles_wet_desc_lvl3 = "70%^ Molhado<br>chance de pegar um resfriado",
+Moodles_wet_desc_lvl4 = "90%^ Molhado<br>alta chance de pegar um resfriado",
+-- Has a cold
+Moodles_hasacold_desc_lvl1 = "20%^ Resfriado<br>espirra e tosse um pouco",
+Moodles_hasacold_desc_lvl2 = "40%^ Resfriado<br>espirra e tosse muito",
+Moodles_hasacold_desc_lvl3 = "60%^ Resfriado<br>espirra e tosse com frequencia<br>-20% velocidade e velocidade de cura",
+Moodles_hasacold_desc_lvl4 = "80%^ Resfriado<br>espirra e tosse com muita frequencia<br>-35% velocidade & velocidade de cura",
+-- Sickness
+Moodles_sick_desc_lvl1 = "25%^ Incidencia, pequeno aumento na temperatura corporal, perdendo HP lentamente",
+Moodles_sick_desc_lvl2 = "50%^ Incidencia, aumento na temperatura corporal, -10% forca, -1 capacidade de carga, -10% velocidade de cura, perdendo HP",
+Moodles_sick_desc_lvl3 = "75%^ Incidencia, grande aumento na temperatura corporal, -20% forca, -2 capacidade de carga, -20% velocidade de cura, perdendo HP rapidamente",
+Moodles_sick_desc_lvl4 = "100% Incidencia, aumento excessivo na temperatura corporal, -30% forca, -3 capacidade de carga, perdendo HP extremamente rapido, morte eminente",
+-- Injured
+Moodles_injured_desc_lvl1 = "80%v HP, no effects",
+Moodles_injured_desc_lvl2 = "60%v HP<br>-10% forca",
+Moodles_injured_desc_lvl3 = "40%v HP<br>-20% forca",
+Moodles_injured_desc_lvl4 = "25%v HP<br>-30% forca",
+-- Pain
+Moodles_pain_desc_lvl1 = "+5% chance de tropecar",
+Moodles_pain_desc_lvl2 = "+10% chance de tropecar<br>-15% dano e velocidade de ataque/velocidade de movimento<br>impossivel dormir",
+Moodles_pain_desc_lvl3 = "+15% chance de tropecar<br>-20% dano e velocidade de ataque/velocidade de movimento<br>impossivel dormir",
+Moodles_pain_desc_lvl4 = "+20% chance de tropecar<br>-35% dano e velocidade de ataque/velocidade de movimento<br>impossivel dormir/se exercitar",
+-- Bleeding
+Moodles_bleed_desc_lvl1 = "perdendo HP lentamente",
+Moodles_bleed_desc_lvl2 = "-10% forca<br>perdendo HP",
+Moodles_bleed_desc_lvl3 = "-10% forca<br>perdendo HP rapidamente",
+Moodles_bleed_desc_lvl4 = "-10% forca<br>perdendo HP extremamente rapido",
+-- Hyperthermia
+Moodles_hyperthermia_desc_lvl1 = "Temperatura 37.5°C<br>sede um pouco aumentada",
+Moodles_hyperthermia_desc_lvl2 = "Temperatura 39°C<br>sede aumentada<br>-34% velocidade de ataque<br>-34% velocidade de movimento",
+Moodles_hyperthermia_desc_lvl3 = "Temperatura 40°C<br>sede muito aumentada<br>-67% velocidade de ataque<br>-67% velocidade de movimento",
+Moodles_hyperthermia_desc_lvl4 = "Temperatura 41°C<br>sede extremamente aumentadad<br>-90% velocidade de ataque<br>-100% velocidade de movimento<br>perdendo HP",
+-- Hypothermia
+Moodles_hypothermia_desc_lvl1 = "Temperatura 36.5°C, sem efeitos",
+Moodles_hypothermia_desc_lvl2 = "Temperatura 35°C<br>-34% velocidade de ataque<br>-34% velocidade<br>pequena chance de pegar um resfriado",
+Moodles_hypothermia_desc_lvl3 = "Temperatura 30°C<br>-67% velocidade de ataque<br>-67% velocidade<br>chance de pegar um resfriado",
+Moodles_hypothermia_desc_lvl4 = "Temperatura 25°C<br>-90% velocidade de ataque<br>-100% velocidade<br>alta chance de pegar um resfriado<br>perdendo HP",
+-- Windchill
+Moodles_windchill_desc_lvl1 = "5-10°C mais frio do que parece",
+Moodles_windchill_desc_lvl2 = "10-15°C mais frio do que parece",
+Moodles_windchill_desc_lvl3 = "15-20°C mais frio do que parece",
+Moodles_windchill_desc_lvl4 = "20°C mais frio do que parece",
+-- Dead
+Moodles_dead_lvl1 = "Descanse em paz.",
+-- Zombified
+Moodles_zombie_lvl1 = "O pior final.",
+}

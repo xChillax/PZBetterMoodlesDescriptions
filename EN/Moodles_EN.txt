@@ -1,0 +1,114 @@
+Moodles_EN = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "25%^ Exhausted<br>foraging vision reduced<br>-50% melee damage<br>-0.07 attack speed<br>+10% trip chance while vaulting<br>-5% chance of climbing over tall fences<br>-15% speed",
+	Moodles_endurance_desc_lvl2 = "50%^ Exhausted<br>less foraging vision<br>-80% melee damage<br>-0.14 attack speed<br>+20% trip chance while vaulting<br>-10% chance of climbing over tall fences<br>-30% speed<br>can't sprint",
+	Moodles_endurance_desc_lvl3 = "75%^ Exhausted<br>even less foraging vision<br>-90% melee damage<br>-0.21 attack speed<br>+30% trip chance while vaulting<br>-15% chance of climbing over tall fences<br>-45% speed<br>can't sprint<br>can't run<br>can't speed walk<br>can't exercise",
+	Moodles_endurance_desc_lvl4 = "90%^ Exhausted<br>worse foraging vision<br>-95% melee damage<br>-0.28 attack speed<br>+40% trip chance while vaulting<br>-20% chance of climbing over tall fences<br>-60% speed<br>can't sprint<br>can't run<br>can't speed walk<br>can't exercise<br>can't use heavy weapons",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "101%^ Over capacity<br>-5% crit. chance<br>-0.07 attack speed<br>+13% trip chance while vaulting<br>-8% chance of climbing over tall fences<br>-15% speed<br>reduced endurance",
+	Moodles_heavyload_desc_lvl2 = "125%^ Over capacity<br>-10% crit. chance<br>-0.14 attack speed<br>+26% trip chance while vaulting<br>-16% chance of climbing over tall fences<br>-30% speed<br>reduced endurance<br>can't sprint<br>losing HP",
+	Moodles_heavyload_desc_lvl3 = "150%^ Over capacity<br>-15% crit. chance<br>-0.21 attack speed<br>+39% trip chance while vaulting<br>-24% chance of climbing over tall fences<br>-45% speed<br>reduced endurance<br>can't run<br>can't exercise<br>losing HP",
+	Moodles_heavyload_desc_lvl4 = "175%^ Over capacity<br>-20% crit. chance<br>-0.28 attack speed<br>+52% trip chance while vaulting<br>-32% chance of climbing over tall fences<br>-60% speed<br>reduced endurance<br>can't run<br>can't exercise<br>losing HP",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "60%^ Tired<br>foraging vision reduced<br>-50% melee damage<br>accuracy decreases<br>vision decreases<br>awareness decreases<br>increased muscle stiffness<br>slow endurance regain",
+	Moodles_tired_desc_lvl2 = "70%^ Tired<br>less foraging vision<br>-80% melee damage<br>accuracy decreases more<br>vision decreases more<br>awareness decreases more<br>increased muscle stiffness<br>slower endurance regain",
+	Moodles_tired_desc_lvl3 = "80%^ Tired<br>even less foraging vision<br>-90% melee damage<br>accuracy decreases even more<br>vision decreases even more<br>awareness decreases even more<br>increased muscle stiffness<br>even slower endurance regain<br>you can sleep despite high pain",
+	Moodles_tired_desc_lvl4 = "90%^ Tired<br>worse foraging vision<br>-95% melee damage<br>awful accuracy<br>very decreased vision<br>can't see behind you<br>increased muscle stiffness<br>can't regain endurance<br>you can sleep despite high pain",
+	-- CantSprint
+	Moodles_CantSprint_desc = "heavy clothing, bags, or items are slowing you down!<br>can't sprint",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "12%^ Thirsty<br>no effects",
+	Moodles_thirst_desc_lvl2 = "25%^ Thirsty<br>-1 carrying capacity<br>-10% healing<br>body heat increase",
+	Moodles_thirst_desc_lvl3 = "70%^ Thirsty<br>-2 carrying capacity<br>-20% healing<br>body heat increases fast",
+	Moodles_thirst_desc_lvl4 = "84%^ Thirsty<br>-2 carrying capacity<br>-30% healing<br>body heat quickly increases<br>losing HP",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ Hungry<br>15% more chance of finding food while foraging",
+	Moodles_hungry_desc_lvl2 = "25%^ Hungry<br>25% more chance of finding food while foraging<br>-1 carrying capacity<br>-15% body heat<br>-10% healing",
+	Moodles_hungry_desc_lvl3 = "45%^ Hungry<br>45% more chance of finding food while foraging<br>-2 carrying capacity<br>-35% body heat<br>-20% healing",
+	Moodles_hungry_desc_lvl4 = "70%^ Hungry<br>50% more chance of finding food while foraging<br>-2 carrying capacity<br>-50% body heat<br>-30% healing<br>losing HP",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "13 seconds of fullness<br>+2 carrying capacity<br>+15% healing",
+	Moodles_foodeaten_desc_lvl2 = "14,6 seconds of fullness<br>+2 carrying capacity<br>+30% healing",
+	Moodles_foodeaten_desc_lvl3 = "16,2 seconds of fullness<br>+2 carrying capacity<br>+45% healing<br>can't eat more food",
+	Moodles_foodeaten_desc_lvl4 = "17,8 seconds of fullness<br>+2 carrying capacity<br>+60% healing<br>can't eat more food",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%^ Drunk<br>foraging vision reduced<br>small boredom decrease<br>small fatigue increase<br>driving steer control decrease<br>small accuracy decrease<br>body heat decrease",
+	Moodles_drunk_desc_lvl2 = "30%^ Drunk<br>less foraging vision<br>boredom decreases<br>increased fatigue <br>decreased driving steer control<br>accuracy decreases<br>body heat decreases",
+	Moodles_drunk_desc_lvl3 = "50%^ Drunk<br>even less foraging vision<br>boredom decreases fast<br>high increase on fatigue & driving steer control<br>accuracy<br>body heat decreases more",
+	Moodles_drunk_desc_lvl4 = "70%^ Drunk<br>worse foraging vision<br>boredom quickly decreases<br>very high increase on fatigue & driving steer control<br>accuracy<br>body heat decreases even more",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%^ Bored<br>no effects",
+	Moodles_bored_desc_lvl2 = "50%^ Bored<br>unhappiness increase",
+	Moodles_bored_desc_lvl3 = "75%^ Bored<br>unhappiness increases fast",
+	Moodles_bored_desc_lvl4 = "90%^ Bored<br>unhappiness quickly increases",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%^ Unhappy<br>-10% actions speed",
+	Moodles_unhappy_desc_lvl2 = "45%^ Unhappy<br>-20% actions speed",
+	Moodles_unhappy_desc_lvl3 = "60%^ Unhappy<br>-30% actions speed",
+	Moodles_unhappy_desc_lvl4 = "80%^ Unhappy<br>-40% actions speed",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "25%^ Angry<br>no effects",
+	Moodles_angry_desc_lvl2 = "50%^ Angry<br>no effects",
+	Moodles_angry_desc_lvl3 = "75%^ Angry<br>no effects",
+	Moodles_angry_desc_lvl4 = "90%^ Angry<br>no effects",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "10%^ Stressed<br>foraging vision reduced",
+	Moodles_stress_desc_lvl2 = "25%^ Stressed<br>less foraging vision<br>-10% melee damage<br>unhappiness increase",
+	Moodles_stress_desc_lvl3 = "50%^ Stressed<br>even less foraging vision<br>-20% melee damage<br>unhappiness increases fast",
+	Moodles_stress_desc_lvl4 = "75%^ Stressed<br>worse foraging vision<br>-30% melee damage<br>unhappiness quickly increases",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "6%^ Panicked<br>foraging vision reduced<br>-1,3% crit. chance<br>worse reload time<br>worse reload speed<br>worse rack time",
+	Moodles_panic_desc_lvl2 = "30%^ Panicked<br>less foraging vision<br>-2,3% crit. chance<br>-10% melee damage<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	Moodles_panic_desc_lvl3 = "65%^ Panicked<br>even less foraging vision<br>-3,9% crit. chance<br>-20% melee damage<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	Moodles_panic_desc_lvl4 = "80%^ Panicked<br>worse foraging vision<br>-5,2% crit. chance<br>-30% melee damage<br>gets up from sitting faster<br>vision narrows<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%^ Wet<br>no effects",
+	Moodles_wet_desc_lvl2 = "40%^ Wet<br>small chance to catch a cold",
+	Moodles_wet_desc_lvl3 = "70%^ Wet<br>chance to catch a cold",
+	Moodles_wet_desc_lvl4 = "90%^ Wet<br>high chance to catch a cold",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ cold strength<br>sneezes and coughs",
+	Moodles_hasacold_desc_lvl2 = "40%^ cold strength<br>sneezes and coughs more",
+	Moodles_hasacold_desc_lvl3 = "60%^ cold strength<br>sneezes and coughs often<br>-20% speed<br>-20% healing",
+	Moodles_hasacold_desc_lvl4 = "75%^ cold strength<br>sneezes and coughs a lot<br>-35% speed<br>-35% healing",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ Incidence<br>foraging vision reduced<br>small body heat increase<br>might lose HP",
+	Moodles_sick_desc_lvl2 = "50%^ Incidence<br>less foraging vision<br>body heat increase<br>-1 carrying capacity<br>-10% healing<br>might lose HP",
+	Moodles_sick_desc_lvl3 = "75%^ Incidence<br>even less foraging vision<br>high body heat increase<br>-2 carrying capacity<br>-20% healing<br>might lose HP",
+	Moodles_sick_desc_lvl4 = "90%^ Incidence<br>worse foraging vision<br>higher body heat increase<br>-3 carrying capacity<br>might lose HP",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80%v HP<br>no effects",
+	Moodles_injured_desc_lvl2 = "60%v HP<br>-1 carrying capacity",
+	Moodles_injured_desc_lvl3 = "40%v HP<br>-2 carrying capacity",
+	Moodles_injured_desc_lvl4 = "25%v HP<br>-3 carrying capacity",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "10%^ in Pain<br>foraging vision reduced<br>+5% trip chance while vaulting",
+	Moodles_pain_desc_lvl2 = "20%^ in Pain<br>less foraging vision<br>+10% trip chance while vaulting<br>-15% attack damage<br>-15% attack speed<br>-15% speed<br>can't can't",
+	Moodles_pain_desc_lvl3 = "50%^ in Pain<br>even less foraging vision<br>+15% trip chance while vaulting<br>-20% attack damage<br>-15% attack speed<br>-15% speed<br>can't sleep",
+	Moodles_pain_desc_lvl4 = "75%^ in Pain<br>worse foraging vision<br>+20% trip chance while vaulting<br>-35% attack damage<br>-15% attack speed<br>-15% speed<br>can't sleep<br>can't exercise",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "one part of your body is bleeding<br>slowly losing HP",
+	Moodles_bleed_desc_lvl2 = "two parts of your body are bleeding<br>-1 carrying capacity<br>losing HP",
+	Moodles_bleed_desc_lvl3 = "three parts of your body are bleeding<br>-1 carrying capacity<br>losing HP fast",
+	Moodles_bleed_desc_lvl4 = "four or more parts of your body are bleeding<br>-1 carrying capacity<br>quickly losing HP",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "temperature 37.5°C<br>thirst increase",
+	Moodles_hyperthermia_desc_lvl2 = "temperature 39°C<br>thirst increases more<br>-34% attack speed<br>-34% speed",
+	Moodles_hyperthermia_desc_lvl3 = "temperature 40°C<br>thirst increases fast<br>-67% attack speed<br>-67% speed",
+	Moodles_hyperthermia_desc_lvl4 = "temperature 41°C<br>thirst quickly increases<br>-90% attack speed<br>-100% speed<br>losing HP",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "temperature 36.5°C<br>no effects",
+	Moodles_hypothermia_desc_lvl2 = "temperature 35°C<br>-34% attack speed<br>-34% speed<br>small chance to catch a cold",
+	Moodles_hypothermia_desc_lvl3 = "temperature 30°C<br>-67% attack speed<br>-67% speed<br>chance to catch a cold",
+	Moodles_hypothermia_desc_lvl4 = "temperature 25°C<br>-90% attack speed<br>-100% speed<br>high chance to catch a cold<br>losing HP",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5°C colder than it seems",
+	Moodles_windchill_desc_lvl2 = "10°C colder than it seems",
+	Moodles_windchill_desc_lvl3 = "15°C colder than it seems",
+	Moodles_windchill_desc_lvl4 = "20°C colder than it seems",
+	-- Dead
+	Moodles_dead_lvl1 = "Rest in peace.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "The worst ending.",
+}

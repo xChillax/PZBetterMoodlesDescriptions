@@ -1,0 +1,106 @@
+Moodles_CN = {
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "-50%近战伤害。-0.07攻速<br>+10%被绊倒几率<br>-5%攀爬成功率<br>-15%移速。",
+	Moodles_endurance_desc_lvl2 = "-80%近战伤害。-0.14攻速<br>+20%被绊倒几率<br>-10%攀爬成功率<br>-30%移速<br>无法冲刺",
+	Moodles_endurance_desc_lvl3 = "-90%近战伤害。-0.21攻速<br>+30%被绊倒几率<br>-15%攀爬成功率<br>-45%移速<br>无法奔跑/锻炼",
+	Moodles_endurance_desc_lvl4 = "-95%近战伤害。-0.28攻速<br>+40%被绊倒几率<br>-20%攀爬成功率<br>-60%移速<br>无法奔跑/锻炼/使用重型武器",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%压力值<br>无影响",
+	Moodles_stress_desc_lvl2 = "50%压力值<br>-10%近战伤害。忧郁值上涨",
+	Moodles_stress_desc_lvl3 = "75%压力值<br>-20%近战伤害。忧郁值上涨较快",
+	Moodles_stress_desc_lvl4 = "90%压力值<br>-30%近战伤害。忧郁值上涨非常快",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "13%口渴值<br>无影响",
+	Moodles_thirst_desc_lvl2 = "25%口渴值<br>-10%力量<br>-10%恢复速度<br>体温升高",
+	Moodles_thirst_desc_lvl3 = "70%口渴值<br>-20%力量<br>-20%恢复速度<br>体温升高较快",
+	Moodles_thirst_desc_lvl4 = "85%口渴值<br>-20%力量<br>-30%恢复速度<br>体温升高非常快<br>流失生命值",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "-50%近战伤害。降低视野/听觉<br>肌肉变得僵硬",
+	Moodles_tired_desc_lvl2 = "-80%近战伤害。进一步降低视野/听觉<br>肌肉变得僵硬",
+	Moodles_tired_desc_lvl3 = "-90%近战伤害。降低更多视野/听觉<br>肌肉变得僵硬",
+	Moodles_tired_desc_lvl4 = "-95%近战伤害。极大地降低视野/听觉<br>肌肉变得僵硬",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%饥饿值<br>无影响",
+	Moodles_hungry_desc_lvl2 = "25%饥饿值<br>-10%力量<br>-15%体温<br>-10%恢复速度",
+	Moodles_hungry_desc_lvl3 = "45%饥饿值<br>-20%力量<br>-35%体温<br>-20%恢复速度",
+	Moodles_hungry_desc_lvl4 = "70%饥饿值<br>-20%力量<br>-50%体温<br>-30%恢复速度<br>流失生命值",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "-1.3%暴击率",
+	Moodles_panic_desc_lvl2 = "-2.3%暴击率<br>-10%近战伤害。坐在地上时起身更快",
+	Moodles_panic_desc_lvl3 = "-3.9%暴击率<br>-20%近战伤害。坐在地上时起身更快",
+	Moodles_panic_desc_lvl4 = "-5.2%暴击率<br>-30%近战伤害。降低视野<br>坐在地上时起身更快",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%疾病值<br>体温轻微升高<br>可能会减少生命值",
+	Moodles_sick_desc_lvl2 = "50%疾病值<br>-10%力量<br>体温升高<br>-1负重<br>-10%恢复速度<br>可能会减少生命值",
+	Moodles_sick_desc_lvl3 = "75%疾病值<br>-20%力量<br>体温明显升高<br>-2负重<br>-20%恢复速度<br>可能会减少生命值",
+	Moodles_sick_desc_lvl4 = "100%疾病值<br>-30%力量<br>体温升高极快<br>-3负重<br>可能会减少生命值",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%无聊值<br>无影响",
+	Moodles_bored_desc_lvl2 = "50%无聊值<br>忧郁值上涨",
+	Moodles_bored_desc_lvl3 = "75%无聊值<br>忧郁值上涨较快",
+	Moodles_bored_desc_lvl4 = "90%无聊值<br>忧郁值上涨非常快",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%忧郁值<br>无影响",
+	Moodles_unhappy_desc_lvl2 = "45%忧郁值<br>读条动作速度-25%",
+	Moodles_unhappy_desc_lvl3 = "60%忧郁值<br>读条动作速度-45%",
+	Moodles_unhappy_desc_lvl4 = "80%忧郁值<br>读条动作速度-65%",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "缓慢流失生命值",
+	Moodles_bleed_desc_lvl2 = "流失生命值<br>-10%力量",
+	Moodles_bleed_desc_lvl3 = "快速流失生命值<br>-10%力量",
+	Moodles_bleed_desc_lvl4 = "生命值流失极快<br>-10%力量",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%潮湿度<br>无影响",
+	Moodles_wet_desc_lvl2 = "40%潮湿度<br>较低几率感冒",
+    	Moodles_wet_desc_lvl3 = "70%潮湿度<br>有几率感冒",
+    	Moodles_wet_desc_lvl4 = "90%潮湿度<br>很有可能感冒",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%感冒严重度<br>打喷嚏/咳嗽",
+	Moodles_hasacold_desc_lvl2 = "40%感冒严重度<br>打喷嚏/咳嗽更频繁",
+	Moodles_hasacold_desc_lvl3 = "60%感冒严重度<br>打喷嚏/咳嗽非常频繁<br>-20%移速/恢复速度",
+	Moodles_hasacold_desc_lvl4 = "80%感冒严重度<br>打喷嚏/咳嗽极其频繁<br>-35%移速/恢复速度",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "生命值低于80%<br>无影响",
+	Moodles_injured_desc_lvl2 = "生命值低于60%<br>-10%力量",
+	Moodles_injured_desc_lvl3 = "生命值低于40%<br>-20%力量",
+	Moodles_injured_desc_lvl4 = "生命值低于25%<br>-30%力量",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "+5%被绊倒几率",
+	Moodles_pain_desc_lvl2 = "+10%被绊倒几率<br>-15%伤害/攻速/移速<br>无法入睡",
+	Moodles_pain_desc_lvl3 = "+15%被绊倒几率<br>-20%伤害/攻速/移速<br>无法入睡",
+	Moodles_pain_desc_lvl4 = "+20%被绊倒几率<br>-35%伤害/攻速/移速<br>无法入睡/锻炼",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "+13%被绊倒几率<br>-5%暴击率<br>-0.07攻速<br>-8%攀爬成功率<br>-15%移速<br>降低耐力",
+	Moodles_heavyload_desc_lvl2 = "+26%被绊倒几率<br>-10%暴击率<br>-0.14攻速<br>-16%攀爬成功率<br>-30%移速<br>降低耐力<br>无法冲刺<br>流失生命值",
+	Moodles_heavyload_desc_lvl3 = "+39%被绊倒几率<br>-15%暴击率<br>-0.21攻速<br>-24%攀爬成功率<br>-45%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
+	Moodles_heavyload_desc_lvl4 = "+52%被绊倒几率<br>-20%暴击率<br>-0.28攻速<br>-32%攀爬成功率<br>-60%移速<br>降低耐力<br>无法奔跑<br>流失生命值",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%醉酒度<br>轻微提升疲劳上涨速度/载具操作延迟<br>稍微降低精准度/身体产热",
+	Moodles_drunk_desc_lvl2 = "30%醉酒度<br>提升疲劳上涨速度/载具操作延迟<br>降低精准度/身体产热",
+	Moodles_drunk_desc_lvl3 = "50%醉酒度<br>提升较多疲劳上涨速度/载具操作延迟<br>降低更多精准度/身体产热",
+	Moodles_drunk_desc_lvl4 = "70%醉酒度<br>明显提升疲劳上涨速度/载具操作延迟<br>明显降低精准度/身体产热",
+	-- Food eaten 0.00015
+	Moodles_foodeaten_desc_lvl1 = "+2负重<br>+15%恢复速度",
+	Moodles_foodeaten_desc_lvl2 = "+2负重<br>+30%恢复速度",
+	Moodles_foodeaten_desc_lvl3 = "+2负重<br>+45%恢复速度",
+	Moodles_foodeaten_desc_lvl4 = "+2负重<br>+60%恢复速度",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "体温37.5°C<br>口渴值上涨加快",
+	Moodles_hyperthermia_desc_lvl2 = "体温39°C<br>口渴值/疲劳度上涨更快<br>-34%攻速<br>-34%移速",
+	Moodles_hyperthermia_desc_lvl3 = "体温40°C<br>口渴值上涨非常快<br>-67%攻速<br>-67%移速",
+	Moodles_hyperthermia_desc_lvl4 = "体温41°C<br>口渴值上涨极快<br>-90%攻速<br>-100%移速<br>流失生命值",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "体温36.5°C<br>无影响",
+	Moodles_hypothermia_desc_lvl2 = "体温35°C<br>-34%攻速<br>-34%移速<br>较低几率感冒",
+	Moodles_hypothermia_desc_lvl3 = "体温30°C<br>-67%攻速<br>-67%移速<br>有几率感冒",
+	Moodles_hypothermia_desc_lvl4 = "体温25°C<br>-90%攻速<br>-100%移速<br>很有可能感冒<br>流失生命值",
+   	-- Windchill
+   	Moodles_windchill_desc_lvl1 = 体感温度降低5-10度",
+   	Moodles_windchill_desc_lvl2 = 体感温度降低10-15度",
+    	Moodles_windchill_desc_lvl3 = 体感温度降低15-20度",
+    	Moodles_windchill_desc_lvl4 = 体感温度降低20度",
+    	-- CantSprint
+   	Moodles_CantSprint = "移动受限"
+    	Moodles_CantSprint_desc = "你身上的东西太多了！"
+}

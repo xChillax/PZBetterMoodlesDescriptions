@@ -1,0 +1,108 @@
+Moodles_JP = {
+-- Endurance
+Moodles_endurance_desc_lvl1 = "適度な運動量<br>近接ダメージ-50%<br>攻撃速度-0.07<br>転倒確率+10%<br>よじ登り成功率-5%<br>移動速度-15%",
+Moodles_endurance_desc_lvl2 = "激しい運動量<br>近接ダメージ-80%<br>攻撃速度-0.14<br>転倒確率+20%<br>よじ登り成功率-10%<br>移動速度-30%<br>全力疾走できなくなる",
+Moodles_endurance_desc_lvl3 = "過度の運動量<br>近接ダメージ-90%<br>攻撃速度-0.21<br>転倒確率+30%<br>よじ登り成功率-15%<br>移動速度-45%<br>走る/エクササイズができなくなる",
+Moodles_endurance_desc_lvl4 = "ヘトヘトになった<br>近接ダメージ-95%<br>攻撃速度-0.28<br>転倒確率+40%<br>よじ登り成功率-20%<br>移動速度-60%<br>歩行速度低下/エクササイズ/重い武器使用不可",
+-- Heavy load
+Moodles_heavyload_desc_lvl1 = "まあまあな重さ<br>クリティカル-5%<br>攻撃速度-0.07<br>転倒確率+13%<br>よじ登り成功率-8%<br>移動速度-15%<br>スタミナ消費増加",
+Moodles_heavyload_desc_lvl2 = "重い<br>クリティカル-10%<br>攻撃速度-0.14<br>転倒確率+26%<br>よじ登り成功率-16%<br>移動速度-30%<br>スタミナ消費増加<br>全力疾走できなくなる<br>徐々にHP減少",
+Moodles_heavyload_desc_lvl3 = "とても重い<br>クリティカル-15%<br>攻撃速度-0.21<br>転倒確率+39%<br>よじ登り成功率-24%<br>移動速度-45%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
+Moodles_heavyload_desc_lvl4 = "重過ぎる<br>クリティカル-20%<br>攻撃速度-0.28<br>転倒確率+52%<br>よじ登り成功率-32%<br>移動速度-60%<br>スタミナ消費増加<br>走る/エクササイズができなくなる<br>徐々にHP減少",
+-- Tired
+Moodles_tired_desc_lvl1 = "眠気<br>近接ダメージ-50%<br>視界と認識範囲の低下<br>筋肉痛<br>スタミナ回復減少",
+Moodles_tired_desc_lvl2 = "疲れた<br>近接ダメージ-80%<br>さらに視界と認識範囲の低下<br>筋肉痛<br>スタミナ回復減少",
+Moodles_tired_desc_lvl3 = "とても疲れた<br>近接ダメージ-90%<br>視界と認識範囲の大幅な低下<br>筋肉痛<br>スタミナの回復がかなり減少<br>痛みが強くても寝れる",
+Moodles_tired_desc_lvl4 = "疲れ果てた<br>近接ダメージ-95%<br>視界と認識範囲がなくなり、背後がまったくわからなくなる<br>筋肉痛<br>スタミナの回復が無くなる<br>痛みが強くても寝れる",
+-- CantSprint
+Moodles_CantSprint_desc = "重たい服, 鞄, アイテムのせいが足手まとい! 全力疾走できなくなる",
+-- Thirsty
+Moodles_thirst_desc_lvl1 = "13%^ すこし喉が渇いた, まだ大丈夫",
+Moodles_thirst_desc_lvl2 = "25%^ 喉が渇いた<br>筋力-10%<br>回復力-10%<br>体温が上がっている",
+Moodles_thirst_desc_lvl3 = "70%^ とても喉が渇いた<br>筋力-20%<br>回復力-20%<br>体温がかなり上がっている",
+Moodles_thirst_desc_lvl4 = "85%^ なにか飲まないと…<br>筋力-20%<br>回復力-30%<br>体温がとても上がっている<br>徐々にHP減少",
+-- Hungry
+Moodles_hungry_desc_lvl1 = "15%^ 小腹がすいた, まだ大丈夫",
+Moodles_hungry_desc_lvl2 = "25%^ お腹が空いた<br>筋力-10%<br>回復力-10%<br>体温が下がっている",
+Moodles_hungry_desc_lvl3 = "45%^ とてもお腹が空いた<br>筋力-20%<br>回復力-20%<br>-体温がかなり下がっている",
+Moodles_hungry_desc_lvl4 = "70%^ なにか食べないと…<br>筋力-20%<br>回復力-30%<br>体温が危険域まで下がっている<br>徐々にHP減少",
+-- Food eaten
+Moodles_foodeaten_desc_lvl1 = "少しお腹が満たされた<br>所持重量+2<br>回復力+15%",
+Moodles_foodeaten_desc_lvl2 = "お腹が満たされた<br>所持重量+2<br>回復力+30%",
+Moodles_foodeaten_desc_lvl3 = "お腹が一杯になった<br>所持重量+2<br>回復力+45%<br>もう食べられない",
+Moodles_foodeaten_desc_lvl4 = "もうこれ以上食べられない<br>所持重量+2<br>回復力+60%<br>もう食べられない",
+-- Drunk
+Moodles_drunk_desc_lvl1 = "10%^ ほろ酔い<br>退屈が少し減少<br>疲労が少し上昇 & 軽い車の操作遅延<br>軽い精度の低下 & 体温の低下",
+Moodles_drunk_desc_lvl2 = "30%^ 酩酊<br>退屈が減少<br>疲労が上昇 & 車の操作遅延<br>精度の低下 & 体温の低下",
+Moodles_drunk_desc_lvl3 = "50%^ 泥酔<br>退屈がかなり減少<br>疲労がかなり上昇 & 車の操作遅延<br>精度の低下 & 体温がかなり低下",
+Moodles_drunk_desc_lvl4 = "70%^ F**k y*u<br>退屈がすぐに減少<br>疲労がとても上昇 & 車の操作遅延<br>精度の低下 & 体温がとても低下",
+-- Bored
+Moodles_bored_desc_lvl1 = "25%^ つまらない, まだ大丈夫",
+Moodles_bored_desc_lvl2 = "50%^ うんざりする<br>不幸が上昇",
+Moodles_bored_desc_lvl3 = "75%^ ひどく退屈してる<br>不幸がかなり上昇",
+Moodles_bored_desc_lvl4 = "90%^ 退屈しきっている<br>不幸が急速に上昇",
+-- Unhappy
+Moodles_unhappy_desc_lvl1 = "20%^ 少し悲しい気分<br>作業速度-10%",
+Moodles_unhappy_desc_lvl2 = "45%^ ちょっと涙が出てきた<br>作業速度-20%",
+Moodles_unhappy_desc_lvl3 = "60%^ 気持ちが落ち込む<br>作業速度-30%",
+Moodles_unhappy_desc_lvl4 = "80%^ 現実逃避<br>作業速度-40%",
+-- Stress
+Moodles_stress_desc_lvl1 = "25%^ 心配している, まだ大丈夫",
+Moodles_stress_desc_lvl2 = "50%^ 動揺している<br>近接ダメージ-10%<br>不幸が上昇",
+Moodles_stress_desc_lvl3 = "75%^ ストレスを感じている<br>近接ダメージ-20%<br>不幸がかなり上昇",
+Moodles_stress_desc_lvl4 = "90%^ ノイローゼ<br>近接ダメージ-30%<br>不幸が急速に上昇",
+-- Panic
+Moodles_panic_desc_lvl1 = "軽いパニック<br>クリティカル-1.3%<br>リロードと反応速度の悪化",
+Moodles_panic_desc_lvl2 = "パニック<br>クリティカル-2,3%<br>近接ダメージ-10%<br>座った状態からの立ち上がりが早くなる<br>ノックバック/ノックダウン/精度/リロードと反応速度の悪化",
+Moodles_panic_desc_lvl3 = "強いパニック<br>クリティカル-3,9%<br>近接ダメージ-20%<br>座った状態からの立ち上がりが早くなる<br>ノックバック/ノックダウン/精度/リロードと反応速度の悪化",
+Moodles_panic_desc_lvl4 = "極度のパニック<br>クリティカル-5,2%<br>近接ダメージ-30%<br>座った状態からの立ち上がりが早くなる<br>視界の悪化<br>ノックバック/ノックダウン/精度/リロードと反応速度の悪化",
+-- Wet
+Moodles_wet_desc_lvl1 = "15%^ 湿っている, まだ大丈夫",
+Moodles_wet_desc_lvl2 = "40%^ 濡れた<br>少し風邪を引きやすい",
+Moodles_wet_desc_lvl3 = "70%^ ずぶ濡れ<br>風邪を引きやすい",
+Moodles_wet_desc_lvl4 = "90%^ びしょ濡れ<br>とても風邪を引きやすい",
+-- Has a cold
+Moodles_hasacold_desc_lvl1 = "20%^ 鼻水が出る<br>くしゃみ/咳",
+Moodles_hasacold_desc_lvl2 = "40%^ 鼻づまり<br>さらにくしゃみ/咳がでる",
+Moodles_hasacold_desc_lvl3 = "60%^ 風邪ぎみ<br>くしゃみ/咳がよく出る<br>移動速度回復力-20%",
+Moodles_hasacold_desc_lvl4 = "80%^ 風邪を引いた<br>くしゃみ/咳がよく出る<br>移動速度回復力-35%",
+-- Sickness
+Moodles_sick_desc_lvl1 = "25%^ 気分が悪い<br>軽く熱がある<br>ゾンビ化している場合はHPが減少",
+Moodles_sick_desc_lvl2 = "50%^ 吐き気がある<br>熱がある<br>筋力-10%<br>所持重量-1<br>回復力-10%<br>ゾンビ化している場合はHPが減少",
+Moodles_sick_desc_lvl3 = "75%^ 病気<br>かなり熱がある<br>筋力-20%<br>所持重量-2<br>-20% healing<br>ゾンビ化している場合はHPが減少",
+Moodles_sick_desc_lvl4 = "100% 発熱<br>高熱がある<br>-筋力-30%<br>所持重量-3<br>ゾンビ化している場合はHPが減少",
+-- Injured
+Moodles_injured_desc_lvl1 = "不快感<br>80%v HP, まだ大丈夫",
+Moodles_injured_desc_lvl2 = "中傷<br>60%v HP<br>筋力-10%",
+Moodles_injured_desc_lvl3 = "重傷<br>40%v HP<br>筋力-20%",
+Moodles_injured_desc_lvl4 = "瀕死<br>25%v HP<br>筋力-30%",
+-- Pain
+Moodles_pain_desc_lvl1 = "軽い痛み<br>転倒確率+5%",
+Moodles_pain_desc_lvl2 = "痛み<br>転倒確率+10%<br>近接速度ダメージ速度/移動速度悪化-15%<br>痛くて寝れない",
+Moodles_pain_desc_lvl3 = "強い痛み<br>転倒確率+15%<br>近接速度ダメージ速度/移動速度悪化-20%<br>痛くて寝れない",
+Moodles_pain_desc_lvl4 = "激しい痛み<br>転倒確率+20%<br>近接速度ダメージ速度/移動速度悪化-35%<br>痛くて寝れない/エクササイズ不可",
+-- Bleeding
+Moodles_bleed_desc_lvl1 = "少量の失血<br>徐々にHP減少",
+Moodles_bleed_desc_lvl2 = "出血<br>筋力-10%<br>HP減少",
+Moodles_bleed_desc_lvl3 = "ひどい出血<br>筋力-10%<br>早くHP減少",
+Moodles_bleed_desc_lvl4 = "大量の出血<br>筋力-10%<br>とても早くHP減少",
+-- Hyperthermia
+Moodles_hyperthermia_desc_lvl1 = "不快な暑さ<br>37.5°C<br>少し喉が渇く",
+Moodles_hyperthermia_desc_lvl2 = "体温上昇<br>39°C<br>喉が渇く<br>攻撃速度-34%攻撃速度<br>移動速度-34%",
+Moodles_hyperthermia_desc_lvl3 = "日射病を発症<br>40°C<br>とても喉が渇く<br>攻撃速度-67%<br>移動速度-67%",
+Moodles_hyperthermia_desc_lvl4 = "熱射病を発症<br>41°C<br>非常に喉が渇く<br>攻撃速度-90%<br>-移動速度100%<br>徐々にHP減少",
+-- Hypothermia
+Moodles_hypothermia_desc_lvl1 = "冷える<br>36.5°C, まだ大丈夫",
+Moodles_hypothermia_desc_lvl2 = "寒い<br>35°C<br>攻撃速度-34%<br>移動速度-34%移動速度<br>少し風邪を引きやすい",
+Moodles_hypothermia_desc_lvl3 = "凍えている<br>30°C<br>攻撃速度-67%<br>移動速度-67%<br>風邪を引きやすい",
+Moodles_hypothermia_desc_lvl4 = "低体温症を発症<br>25°C<br>攻撃速度-90%<br>移動速度-100%<br>とても風邪を引きやすい<br>HP減少",
+-- Windchill
+Moodles_windchill_desc_lvl1 = "軽い風冷え<br>実際の気温よりも5～10度ほど寒く感じる",
+Moodles_windchill_desc_lvl2 = "やっかいな風冷え<br>実際の気温よりも10～15度ほど寒く感じる",
+Moodles_windchill_desc_lvl3 = "凍りつく風冷え<br>実際の気温よりも15～20度ほど寒く感じる",
+Moodles_windchill_desc_lvl4 = "ものすごい風冷え<br>実際の気温よりも20度以上寒く感じる",
+-- Dead
+Moodles_dead_lvl1 = "死亡した<br>ネズミの餌になる可能性が高い",
+-- Zombified
+Moodles_zombie_lvl1 = "ゾンビに変異<br>突然人を食べたくなった",
+}

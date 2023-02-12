@@ -1,0 +1,226 @@
+Moodles_RU = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "Утомился",
+	Moodles_endurance_lvl2 = "Устал",
+	Moodles_endurance_lvl3 = "Сильно устал",
+	Moodles_endurance_lvl4 = "Изнурение",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "Довольно тяжёлый груз",
+	Moodles_heavyload_lvl2 = "Тяжёлый груз",
+	Moodles_heavyload_lvl3 = "Очень тяжёлый груз",
+	Moodles_heavyload_lvl4 = "Неподъёмный груз",
+	-- Angry
+	Moodles_angry_lvl1 = "Нервность",
+	Moodles_angry_lvl2 = "Раздражение",
+	Moodles_angry_lvl3 = "Злость",
+	Moodles_angry_lvl4 = "Ярость",
+	-- Stress
+	Moodles_stress_lvl1 = "На взводе",
+	Moodles_stress_lvl2 = "Тревога",
+	Moodles_stress_lvl3 = "Стресс",
+	Moodles_stress_lvl4 = "Нестабилен",
+	-- Thirst
+	Moodles_thirst_lvl1 = "Желание попить",
+	Moodles_thirst_lvl2 = "Жажда",
+	Moodles_thirst_lvl3 = "Пересох",
+	Moodles_thirst_lvl4 = "Иссохся",
+	-- Tired
+	Moodles_tired_lvl1 = "Сонливость",
+	Moodles_tired_lvl2 = "Хочет спать",
+	Moodles_tired_lvl3 = "Изнурение",
+	Moodles_tired_lvl4 = "Еле стоишь на ногах",
+	-- Hungry
+	Moodles_hungry_lvl1 = "Хочется перекусить",
+	Moodles_hungry_lvl2 = "Голоден",
+	Moodles_hungry_lvl3 = "Сильный голод",
+	Moodles_hungry_lvl4 = "Голодовка",
+	-- Panic
+	Moodles_panic_lvl1 = "Взволнован",
+	Moodles_panic_lvl2 = "Паника",
+	Moodles_panic_lvl3 = "Страх",
+	Moodles_panic_lvl4 = "Сильный страх",
+	-- Sick
+	Moodles_sick_lvl1 = "Тошнит",
+	Moodles_sick_lvl2 = "Тошнота",
+	Moodles_sick_lvl3 = "Больной",
+	Moodles_sick_lvl4 = "Лихорадка",
+	-- Bored
+	Moodles_bored_lvl1 = "Скучновато",
+	Moodles_bored_lvl2 = "Скучно",
+	Moodles_bored_lvl3 = "Хочется развлечений",
+	Moodles_bored_lvl4 = "Нечего делать",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "Уже не весело",
+	Moodles_unhappy_lvl2 = "Очень грустно",
+	Moodles_unhappy_lvl3 = "Депрессия",
+	Moodles_unhappy_lvl4 = "Глубокая депрессия",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "Незначительное кровотечение",
+	Moodles_bleeding_lvl2 = "Кровотечение",
+	Moodles_bleeding_lvl3 = "Серьёзное кровотечение",
+	Moodles_bleeding_lvl4 = "Обильное кровотечение",
+	-- Wet
+	Moodles_wet_lvl1 = "Влажный",
+	Moodles_wet_lvl2 = "Мокроват",
+	Moodles_wet_lvl3 = "Мокрый",
+	Moodles_wet_lvl4 = "Промокший",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "Лёгкий насморк",
+	Moodles_hascold_lvl2 = "Заложенный нос",
+	Moodles_hascold_lvl3 = "Простуда",
+	Moodles_hascold_lvl4 = "Скверная простуда",
+	-- Injured
+	Moodles_injured_lvl1 = "Дискомфорт",
+	Moodles_injured_lvl2 = "Ранения",
+	Moodles_injured_lvl3 = "Серьёзные ранения",
+	Moodles_injured_lvl4 = "Критические ранения",
+	-- Pain
+	Moodles_pain_lvl1 = "Незначительная боль",
+	Moodles_pain_lvl2 = "Боль",
+	Moodles_pain_lvl3 = "Нестерпимая боль",
+	Moodles_pain_lvl4 = "Агония",
+	-- Drunk
+	Moodles_drunk_lvl1 = "Выпивший",
+	Moodles_drunk_lvl2 = "Пьяный",
+	Moodles_drunk_lvl3 = "Сильно пьян",
+	Moodles_drunk_lvl4 = "Абсолютно пьян",
+	-- Dead
+	Moodles_dead_lvl1 = "Мёртв",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Зомби",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "Перекусил",
+	Moodles_foodeaten_lvl2 = "Сытно поел",
+	Moodles_foodeaten_lvl3 = "Наелся вдоволь",
+	Moodles_foodeaten_lvl4 = "Полный желудок",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Неприятно жарко",
+	Moodles_hyperthermia_lvl2 = "Перегрев",
+	Moodles_hyperthermia_lvl3 = "Жар",
+	Moodles_hyperthermia_lvl4 = "Гипертермия",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "Зябко",
+	Moodles_hypothermia_lvl2 = "Холодно",
+	Moodles_hypothermia_lvl3 = "Холоднее некуда",
+	Moodles_hypothermia_lvl4 = "Гипотермия",
+	-- Windchill
+	Moodles_windchill_lvl1 = "Слабый ветер",
+	Moodles_windchill_lvl2 = "Сильный ветер",
+	Moodles_windchill_lvl3 = "Ледяной ветер",
+	Moodles_windchill_lvl4 = "Ужасный ветер",
+	
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "-50%	Урон холодным оружием<br>-0.07 скорость атак<br>10% шанс споткнутся<br>5% шанс не перелезть<br>-15% к скорости передвижения",
+	Moodles_endurance_desc_lvl2 = "-80% Урон холодным оружием<br>-0.14 скорость атак<br>20% шанс споткнутся<br>10% щанс не перелезть<br>-30% к скорости передвижения<br>Спринт недоступен",
+	Moodles_endurance_desc_lvl3 = "-90% Урон холодным оружием<br>-0.21 скорость атак<br>30% шанс споткнутся<br>15% шанс не перелезть<br>-40% к скорости передвижения<br>Упражнения недоступны<br>Бег недоступен",
+	Moodles_endurance_desc_lvl4 = "-95% Урон холодным оружием<br>-0.28 скорость атак<br>40% шанс споткнутся<br>20% шанс не перелезть<br>-60% к скорости передвижения<br>Тяжёлое холодное оружие недоступно",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "Испорченное настроение",
+	Moodles_angry_desc_lvl2 = "Дружеские действия не доступны",
+	Moodles_angry_desc_lvl3 = "Нейтральные действия не доступны",
+	Moodles_angry_desc_lvl4 = "Есть шанс устроить бой",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "Стресс 25%, никаких эффектов",
+	Moodles_stress_desc_lvl2 = "Стресс 50%<br>-10% Урон холодным оружием<br>несчастье наростает",
+	Moodles_stress_desc_lvl3 = "Стресс 75%<br>-20% Урон холодным оружием<br>несчастье растёт",
+	Moodles_stress_desc_lvl4 = "Стресс 90%<br>-30% Урон холодным оружием<br>несчастье настигает пика.",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Жажда 13%",
+	Moodles_thirst_desc_lvl2 = "Жажда 25%<br>-1 Грузоподъёмность<br>-10% Сила<br>-10% заживление<br>становится жарковато",
+	Moodles_thirst_desc_lvl3 = "Жажда 70%<br>-3 Грузоподъёмность<br>-20% Сила<br>-20% заживление<br>нагревается",
+	Moodles_thirst_desc_lvl4 = "Жажда 85%<br>-5 Грузоподъёмность<br>-30% Сила<br>-30% заживление<br>быстро нагревается<br>Персонаж теряет здоровье",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "-50% Урон холодным оружием<br>Конус обзора стал чутка уже",
+	Moodles_tired_desc_lvl2 = "-80% Урон холодным оружием<br>Конус обзора стал уже<br>персонаж замечает зомби сзади хуже",
+	Moodles_tired_desc_lvl3 = "-90% Урон холодным оружием<br>Конус обзора значительно уже<br>персонаж замечает зомби сзади ещё хуже",
+	Moodles_tired_desc_lvl4 = "-95% Урон холодным оружием<br>Конус обзора мизерный<br>персонаж не обращает внимание на зомби сзади<br>не может восстанавливать выносливость",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Голод 15%, никаких эффектов",
+	Moodles_hungry_desc_lvl2 = "Голод 25%<br>-1 Грузоподъёмность<br>Тепловыделение -15%<br>заживление -20%",
+	Moodles_hungry_desc_lvl3 = "Голод 45%<br>-3 Грузоподъёмность<br>Тепловыделение -35%<br>заживление -35%",
+	Moodles_hungry_desc_lvl4 = "Голод 70%<br>-5 Грузоподъёмность<br>Тепловыделение -50%<br>Персонаж теряет здоровье",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "-1,3% крит. удара, хуже перезарядка и передёргивание затвора",
+	Moodles_panic_desc_lvl2 = "-2,3% крит. удара<br>-10% Урон холодным оружием<br>персонаж встаёт быстрее",
+	Moodles_panic_desc_lvl3 = "-3,9% крит. удара<br>-20% Урон холодным оружием<br>персонаж встаёт быстрее",
+	Moodles_panic_desc_lvl4 = "-5,2% крит. удара<br>-30% Урон холодным оружием<br>Конус обзора стал меньше",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Заболеваемость 25%",
+	Moodles_sick_desc_lvl2 = "Заболеваемость 50%<br>-1 Грузоподъёмность<br>заживление -20%",
+	Moodles_sick_desc_lvl3 = "Заболеваемость 75%<br>-3 Грузоподъёмность<br>заживление -45%",
+	Moodles_sick_desc_lvl4 = "Заболеваемость 100%<br>-6 Грузоподъёмность<br>Персонаж теряет здоровье",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25% Скуки, никаких эффектов",
+	Moodles_bored_desc_lvl2 = "50% Скуки<br>несчастье наростает",
+	Moodles_bored_desc_lvl3 = "75% Скуки<br>несчастье растёт",
+	Moodles_bored_desc_lvl4 = "90% Скуки<br>шанс получить депрессию",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Несчастье 20%",
+	Moodles_unhappy_desc_lvl2 = "Несчастье 45%<br>Действия 25% медленней",
+	Moodles_unhappy_desc_lvl3 = "Несчастье 60%<br>Действия 45% медленней",
+	Moodles_unhappy_desc_lvl4 = "Несчастье 80%<br>Действия 65% медленней",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "Персонаж незначительно теряет здоровье",
+	Moodles_bleed_desc_lvl2 = "Персонаж умеренно теряет здоровье<br>-1 Грузоподъёмность<br>-10 Сила",
+	Moodles_bleed_desc_lvl3 = "Персонаж теряет много здоровья<br>-2 Грузоподъёмность<br>-10 Сила",
+	Moodles_bleed_desc_lvl4 = "Персонаж имеет шанс умереть<br>-3 Грузоподъёмность<br>-10 Сила",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Мокр на 15%, нет эффектов",
+	Moodles_wet_desc_lvl2 = "Мокр на 40%<br>малый шанс простудится",
+	Moodles_wet_desc_lvl3 = "Мокр на 70%<br>шанс простудится",
+	Moodles_wet_desc_lvl4 = "Мокр на 90%<br>высокий шанс простудится",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Простудился<br>простуда 20%",
+	Moodles_hasacold_desc_lvl2 = "Простуда 40%",
+	Moodles_hasacold_desc_lvl3 = "Простуда 60%<br>-20% заживление",
+	Moodles_hasacold_desc_lvl4 = "Простуда 80%<br>-35% заживление",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80% Здоровья, никаких эффектов",
+	Moodles_injured_desc_lvl2 = "60% Здоровья<br>-1 Грузоподъёмность",
+	Moodles_injured_desc_lvl3 = "40% Здоровья<br>-3 Грузоподъёмность",
+	Moodles_injured_desc_lvl4 = "25% Здоровья<br>-6 Грузоподъёмность",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "5% Шанс споткнутся",
+	Moodles_pain_desc_lvl2 = "10% Шанс споткнутся<br>Движение и Урон холодным оружием -15%",
+	Moodles_pain_desc_lvl3 = "15% Шанс споткнутся<br>Движение и Урон холодным оружием -20%",
+	Moodles_pain_desc_lvl4 = "20% Шанс споткнутся<br>Движение и Урон холодным оружием -35%<br>Упражнение недоступно",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Шанс 13% споткнутся<br>-5% крит. удара<br>-0,07 скорость атаки<br>8% не перелезть<br>-15% скорость",
+	Moodles_heavyload_desc_lvl2 = "Шанс 26% споткнутся<br>-10% крит. удара<br>-0,14 скорость атаки<br>16% не перелезть<br>-30% скорость<br>Персонаж теряет здоровье",
+	Moodles_heavyload_desc_lvl3 = "Шанс 39% споткнутся<br>-15% крит. удара<br>-0,21 скорость атаки<br>24% не перелезть<br>-45% скорость<br>Бег отключён<br>Персонаж теряет здоровье",
+	Moodles_heavyload_desc_lvl4 = "Шанс 52% споткнутся<br>-20% крит. удара<br>-0,28 скорость атаки<br>32% не перелезть<br>-60% скорость<br>Спринт отключён<br>Персонаж теряет здоровье",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Опьянение 10%",
+	Moodles_drunk_desc_lvl2 = "Опьянение 30%<br>слегка устаёт<br>задержка при вождении<br>точность и температура тела уменьшено",
+	Moodles_drunk_desc_lvl3 = "Опьянение 50%<br>устаёт<br>задержка при вождении увеличена<br>точность и температура тела стала ещё хуже",
+	Moodles_drunk_desc_lvl4 = "Опьянение 70%<br>сильно устаёт<br>высокая задержка при вождении<br>точность и температура тела стала",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "Покойся с миром друг",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "Худший конец",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Грузоподъёмность +2<br>заживление +15%<br>Сила +10%",
+	Moodles_foodeaten_desc_lvl2 = "Грузоподъёмность +2<br>заживление +25%<br>Сила +20%",
+	Moodles_foodeaten_desc_lvl3 = "Грузоподъёмность +2<br>заживление +45%<br>Сила +25%<br>Не может есть больше",
+	Moodles_foodeaten_desc_lvl4 = "Грузоподъёмность +2<br>заживление +60%<br>Сила +35%<br>Не может есть больше",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Жажда усиляется<br>Температура 37,5*",
+	Moodles_hyperthermia_desc_lvl2 = "Высокая жажда<br>-34% скорости атак<br>-15% скорость<br>Температура 39*",
+	Moodles_hyperthermia_desc_lvl3 = "Сильная жажда<br>-67% скорости атак<br>-35% скорости<br>Температура 40*",
+	Moodles_hyperthermia_desc_lvl4 = "Невыносимая жажда<br>-90% скорости атак<br>-50% скорости<br>Температура 41*",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Прохладно<br>Температура 65,5*<br>никаикх эффектов",
+	Moodles_hypothermia_desc_lvl2 = "-34% скорости атак<br>-15% скорости<br>Температура 35*<br>небольшой шанс подхватить простуду",
+	Moodles_hypothermia_desc_lvl3 = "-67% скорости атак<br>-35% скорости<br>Температура 30*<br>шанс подхватить простуду",
+	Moodles_hypothermia_desc_lvl4 = "-90% скорости атак<br>-50% скорости<br>Температура 25*<br>большой шанс простудится<br>персонаж теряет здоровье",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5-10 Градусов холоднее, прохладно.",
+	Moodles_windchill_desc_lvl2 = "10-15 Градусов холоднее, довольно холодно.",
+	Moodles_windchill_desc_lvl3 = "15-20 Градусов холоднее, холодно",
+	Moodles_windchill_desc_lvl4 = "20 Градусов холоднее<br>шанс схватить простуду<br>Персонаж теряет здоровье",
+    -- CantSprint
+    	Moodles_CantSprint = "Ограниченное движение"
+    	Moodles_CantSprint_desc = "Тяжёлая одежда, громоздкие сумки или крупные предметы замедляют вас!"
+}
