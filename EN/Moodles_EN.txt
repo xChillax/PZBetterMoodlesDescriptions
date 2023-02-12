@@ -54,14 +54,14 @@ Moodles_EN = {
 	Moodles_angry_desc_lvl4 = "90%^ Angry<br>no effects",
 	-- Stress
 	Moodles_stress_desc_lvl1 = "10%^ Stressed<br>foraging vision reduced",
-	Moodles_stress_desc_lvl2 = "25%^ Stressed<br>less foraging vision<br>-10% melee damage<br>unhappiness increase",
-	Moodles_stress_desc_lvl3 = "50%^ Stressed<br>even less foraging vision<br>-20% melee damage<br>unhappiness increases fast",
-	Moodles_stress_desc_lvl4 = "75%^ Stressed<br>worse foraging vision<br>-30% melee damage<br>unhappiness quickly increases",
+	Moodles_stress_desc_lvl2 = "25%^ Stressed<br>less foraging vision<br>-0.1 damage<br>unhappiness increase",
+	Moodles_stress_desc_lvl3 = "50%^ Stressed<br>even less foraging vision<br>-0.2 damage<br>unhappiness increases fast",
+	Moodles_stress_desc_lvl4 = "75%^ Stressed<br>worse foraging vision<br>-0.3 damage<br>unhappiness quickly increases",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "6%^ Panicked<br>foraging vision reduced<br>-1,3% crit. chance<br>worse reload time<br>worse reload speed<br>worse rack time",
-	Moodles_panic_desc_lvl2 = "30%^ Panicked<br>less foraging vision<br>-2,3% crit. chance<br>-10% melee damage<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
-	Moodles_panic_desc_lvl3 = "65%^ Panicked<br>even less foraging vision<br>-3,9% crit. chance<br>-20% melee damage<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
-	Moodles_panic_desc_lvl4 = "80%^ Panicked<br>worse foraging vision<br>-5,2% crit. chance<br>-30% melee damage<br>gets up from sitting faster<br>vision narrows<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	Moodles_panic_desc_lvl2 = "30%^ Panicked<br>less foraging vision<br>-2,6% crit. chance<br>-0.1 melee damage<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	Moodles_panic_desc_lvl3 = "65%^ Panicked<br>even less foraging vision<br>-3,9% crit. chance<br>damage -0.2 melee, -0.4 distance (<6 aiming)<br>gets up from sitting faster<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
+	Moodles_panic_desc_lvl4 = "80%^ Panicked<br>worse foraging vision<br>-5,2% crit. chance<br>-0.3 melee damage, -0.6 distance (<6 aiming)<br>gets up from sitting faster<br>vision narrows<br>worse knockback<br>worse knockdown chance<br>worse accuracy<br>worse reload time and speed<br>worse rack time",
 	-- Wet
 	Moodles_wet_desc_lvl1 = "15%^ Wet<br>no effects",
 	Moodles_wet_desc_lvl2 = "40%^ Wet<br>small chance to catch a cold",
