@@ -73,10 +73,10 @@ Moodles_EN = {
 	Moodles_hasacold_desc_lvl3 = "60%^ cold strength<br>sneezes and coughs often<br>-20% speed<br>-20% healing",
 	Moodles_hasacold_desc_lvl4 = "75%^ cold strength<br>sneezes and coughs a lot<br>-35% speed<br>-35% healing",
 	-- Sickness
-	Moodles_sick_desc_lvl1 = "25%^ Incidence<br>foraging vision reduced<br>small body heat increase<br>might lose HP (poison, zombification)",
-	Moodles_sick_desc_lvl2 = "50%^ Incidence<br>less foraging vision<br>body heat increase<br>-1 carrying capacity<br>-10% healing<br>might lose HP (poison, zombification)",
-	Moodles_sick_desc_lvl3 = "75%^ Incidence<br>even less foraging vision<br>high body heat increase<br>-2 carrying capacity<br>-20% healing<br>might lose HP (poison, zombification)",
-	Moodles_sick_desc_lvl4 = "90%^ Incidence<br>worse foraging vision<br>higher body heat increase<br>-3 carrying capacity<br>loses HP",
+	Moodles_sick_desc_lvl1 = "25%^ Incidence<br>foraging vision reduced<br>small body heat increase<br>might lose HP",
+	Moodles_sick_desc_lvl2 = "50%^ Incidence<br>less foraging vision<br>body heat increase<br>-1 carrying capacity<br>-35% health regeneration<br>might lose HP",
+	Moodles_sick_desc_lvl3 = "75%^ Incidence<br>even less foraging vision<br>high body heat increase<br>-2 carrying capacity<br>-60% health regeneration<br>might lose HP",
+	Moodles_sick_desc_lvl4 = "90%^ Incidence<br>worse foraging vision<br>higher body heat increase<br>-3 carrying capacity<br>might lose HP",
 	-- Injured
 	Moodles_injured_desc_lvl1 = "80%v HP<br>no effects",
 	Moodles_injured_desc_lvl2 = "60%v HP<br>-1 carrying capacity",
