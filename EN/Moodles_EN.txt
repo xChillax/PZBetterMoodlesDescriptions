@@ -93,10 +93,10 @@ Moodles_EN = {
 	Moodles_bleed_desc_lvl3 = "three parts of your body are bleeding<br>-1 carrying capacity<br>losing HP fast",
 	Moodles_bleed_desc_lvl4 = "four or more parts of your body are bleeding<br>-1 carrying capacity<br>quickly losing HP",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "temperature 37.5°C<br>thirst increase",
-	Moodles_hyperthermia_desc_lvl2 = "temperature 39°C<br>thirst increases more<br>-34% attack speed<br>-34% speed",
-	Moodles_hyperthermia_desc_lvl3 = "temperature 40°C<br>thirst increases fast<br>-67% attack speed<br>-67% speed",
-	Moodles_hyperthermia_desc_lvl4 = "temperature 41°C<br>thirst quickly increases<br>-90% attack speed<br>-100% speed<br>losing HP",
+	Moodles_hyperthermia_desc_lvl1 = "temperature 37.5°C<br>you get tired more easily<br>thirst increase",
+	Moodles_hyperthermia_desc_lvl2 = "temperature 39°C<br>you get tired more easily<br>thirst increases more<br>-34% attack speed<br>-34% speed",
+	Moodles_hyperthermia_desc_lvl3 = "temperature 40°C<br>you get tired more easily<br>thirst increases fast<br>-67% attack speed<br>-67% speed",
+	Moodles_hyperthermia_desc_lvl4 = "temperature 41°C<br>you get tired more easily<br>thirst quickly increases<br>-90% attack speed<br>-100% speed<br>losing HP",
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "temperature 36.5°C<br>no effects",
 	Moodles_hypothermia_desc_lvl2 = "temperature 35°C<br>-34% attack speed<br>-34% speed<br>small chance to catch a cold",

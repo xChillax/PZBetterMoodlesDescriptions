@@ -88,10 +88,10 @@ Moodles_FR = {
     Moodles_bleed_desc_lvl3 = "Perte PV rapide<br>-1 capacite inventaire",
     Moodles_bleed_desc_lvl4 = "Perte PV extreme<br>-1 capacite inventaire",
     -- Hyperthermia
-    Moodles_hyperthermia_desc_lvl1 = "Temperature >37.5°C<br>soif augmente peu",
-    Moodles_hyperthermia_desc_lvl2 = "Temperature >39°C<br>soif et fatigue augmentent<br>-34% vit.attaque / deplacement",
-    Moodles_hyperthermia_desc_lvl3 = "Temperature >40°C<br>soif et fatigue augmentent vite<br>-67% vit.attaque / deplacement",
-    Moodles_hyperthermia_desc_lvl4 = "Temperature >41°C<br>soif et fatigue en forte hausse<br>-90% vit.attaque / deplacement<br>Perte PV",
+    Moodles_hyperthermia_desc_lvl1 = "Temperature >37.5°C<br>la fatigue augmente plus<br>soif augmente peu",
+    Moodles_hyperthermia_desc_lvl2 = "Temperature >39°C<br>la fatigue augmente plus<br>soif augmente<br>-34% vit.attaque / deplacement",
+    Moodles_hyperthermia_desc_lvl3 = "Temperature >40°C<br>la fatigue augmente plus<br>soif augmente vite<br>-67% vit.attaque / deplacement",
+    Moodles_hyperthermia_desc_lvl4 = "Temperature >41°C<br>la fatigue augmente plus<br>soif en forte hausse<br>-90% vit.attaque / deplacement<br>Perte PV",
     -- Hypothermia
     Moodles_hypothermia_desc_lvl1 = "Temperature <36.5°C, pas d'effets",
     Moodles_hypothermia_desc_lvl2 = "Temperature <35°C<br>-34% vit.attaque / deplacement<br>faible risque d'attraper froid (peau <33c)",
