@@ -11,10 +11,10 @@ Moodles_EN = {
 	Moodles_heavyload_desc_lvl3 = "150%^ Over capacity<br>-15% crit. chance<br>-21% attack speed<br>+39% trip chance while vaulting<br>-24% chance of climbing over tall fences<br>-56% speed<br>-6% frontal zombie attack blockage<br>impaired endurance regen<br>can't run<br>can't exercise<br>losing HP",
 	Moodles_heavyload_desc_lvl4 = "175%^ Over capacity<br>-20% crit. chance<br>-28% attack speed<br>+52% trip chance while vaulting<br>-32% chance of climbing over tall fences<br>-75% speed<br>-8% frontal zombie attack blockage<br>loses endurance<br>can't run<br>can't exercise<br>losing HP",
 	-- Tired
-	Moodles_tired_desc_lvl1 = "60%^ Tired<br>foraging vision reduced<br>-50% melee damage<br>accuracy decreases<br>vision decreases<br>awareness decreases<br>increased muscle stiffness<br>slow endurance regain",
-	Moodles_tired_desc_lvl2 = "70%^ Tired<br>less foraging vision<br>-80% melee damage<br>accuracy decreases more<br>vision decreases more<br>awareness decreases more<br>increased muscle stiffness<br>slower endurance regain",
-	Moodles_tired_desc_lvl3 = "80%^ Tired<br>even less foraging vision<br>-90% melee damage<br>accuracy decreases even more<br>vision decreases even more<br>awareness decreases even more<br>increased muscle stiffness<br>even slower endurance regain<br>you can sleep despite high pain",
-	Moodles_tired_desc_lvl4 = "90%^ Tired<br>worse foraging vision<br>-95% melee damage<br>awful accuracy<br>very decreased vision<br>can't see behind you<br>increased muscle stiffness<br>can't regain endurance<br>you can sleep despite high pain",
+	Moodles_tired_desc_lvl1 = "60%^ Tired<br>foraging vision reduced<br>-50% melee damage<br>accuracy decreases<br>vision decreases<br>awareness decreases<br>increased muscle stiffness<br>slow endurance regaind<br>-3% frontal zombie attack blockage",
+	Moodles_tired_desc_lvl2 = "70%^ Tired<br>less foraging vision<br>-80% melee damage<br>accuracy decreases more<br>vision decreases more<br>awareness decreases more<br>increased muscle stiffness<br>slower endurance regain<br>-6% frontal zombie attack blockage",
+	Moodles_tired_desc_lvl3 = "80%^ Tired<br>even less foraging vision<br>-90% melee damage<br>accuracy decreases even more<br>vision decreases even more<br>awareness decreases even more<br>increased muscle stiffness<br>even slower endurance regain<br>you can sleep despite high pain<br>-9% frontal zombie attack blockage",
+	Moodles_tired_desc_lvl4 = "90%^ Tired<br>worse foraging vision<br>-95% melee damage<br>awful accuracy<br>very decreased vision<br>can't see behind you<br>increased muscle stiffness<br>can't regain endurance<br>you can sleep despite high pain<br>-12% frontal zombie attack blockage",
 	-- CantSprint
 	Moodles_CantSprint_desc = "heavy clothing, bags, or items are slowing you down!<br>can't sprint",
 	-- Thirsty
