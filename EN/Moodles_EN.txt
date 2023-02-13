@@ -23,10 +23,10 @@ Moodles_EN = {
 	Moodles_thirst_desc_lvl3 = "70%^ Thirsty<br>-2 carrying capacity<br>-65% health regeneration<br>body heat increases fast",
 	Moodles_thirst_desc_lvl4 = "84%^ Thirsty<br>-2 carrying capacity<br>-100% health regeneration<br>body heat quickly increases<br>losing HP",
 	-- Hungry
-	Moodles_hungry_desc_lvl1 = "15%^ Hungry<br>7.5% more chance of finding food while foraging",
-	Moodles_hungry_desc_lvl2 = "25%^ Hungry<br>12.5% more chance of finding food while foraging<br>-1 carrying capacity<br>-15% body heat<br>-35% health regeneration",
-	Moodles_hungry_desc_lvl3 = "45%^ Hungry<br>22.5% more chance of finding food while foraging<br>-2 carrying capacity<br>-35% body heat<br>-60% health regeneration",
-	Moodles_hungry_desc_lvl4 = "70%^ Hungry<br>35% more chance of finding food while foraging<br>-2 carrying capacity<br>-50% body heat<br>-100% health regeneration<br>losing HP",
+	Moodles_hungry_desc_lvl1 = "15%^ Hungry<br>7.5% more range for finding food while foraging",
+	Moodles_hungry_desc_lvl2 = "25%^ Hungry<br>12.5% more range for finding food while foraging<br>-1 carrying capacity<br>-15% body heat<br>-35% health regeneration",
+	Moodles_hungry_desc_lvl3 = "45%^ Hungry<br>22.5% more range for finding food while foraging<br>-2 carrying capacity<br>-35% body heat<br>-60% health regeneration",
+	Moodles_hungry_desc_lvl4 = "70%^ Hungry<br>35% more range for finding food while foraging<br>-2 carrying capacity<br>-50% body heat<br>-100% health regeneration<br>losing HP",
 	-- Food eaten
 	Moodles_foodeaten_desc_lvl1 = "13 seconds of fullness<br>+2 carrying capacity<br>+15% healing",
 	Moodles_foodeaten_desc_lvl2 = "14,6 seconds of fullness<br>+2 carrying capacity<br>+30% healing",

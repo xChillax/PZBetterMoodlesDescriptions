@@ -23,10 +23,10 @@ Moodles_FR = {
     Moodles_thirst_desc_lvl3 = "70%^ Soif<br>-2 capacite inventaire<br>-60% regeneration<br>augmentation temperature elevee",
     Moodles_thirst_desc_lvl4 = "84%^ Soif<br>-2 capacite inventaire<br>-100% regeneration<br>temperature en forte hausse<br>Perte PV",
     -- Hunger
-    Moodles_hungry_desc_lvl1 = "15%^ Faim<br>+7.5% chance de trouver de la nourriture (foraging)",
-    Moodles_hungry_desc_lvl2 = "25%^ Faim<br>+12.5% chance de trouver de la nourriture (foraging)<br>-1 capacite inventaire<br>-15% temperature<br>-35% regeneration",
-    Moodles_hungry_desc_lvl3 = "45%^ Faim<br>+22.5% chance de trouver de la nourriture (foraging)<br>-2 capacite inventaire<br>-35% temperature<br>-60% regeneration",
-    Moodles_hungry_desc_lvl4 = "70%^ Faim<br>+35% chance de trouver de la nourriture (foraging)<br>-2 capacite inventaire<br>-50% temperature<br>-100% regeneration<br>Perte PV",
+    Moodles_hungry_desc_lvl1 = "15%^ Faim<br>augmentation zone de recherche de +7.5% pour la nourriture (foraging)",
+    Moodles_hungry_desc_lvl2 = "25%^ Faim<br>augmentation zone de recherche de +12.5% pour la nourriture (foraging)<br>-1 capacite inventaire<br>-15% temperature<br>-35% regeneration",
+    Moodles_hungry_desc_lvl3 = "45%^ Faim<br>augmentation zone de recherche de +22.5% pour la nourriture (foraging)<br>-2 capacite inventaire<br>-35% temperature<br>-60% regeneration",
+    Moodles_hungry_desc_lvl4 = "70%^ Faim<br>augmentation zone de recherche de +35% pour la nourriture (foraging)<br>-2 capacite inventaire<br>-50% temperature<br>-100% regeneration<br>Perte PV",
     -- Food eaten
     Moodles_foodeaten_desc_lvl1 = "+2 capacite inventaire<br>+15% regeneration",
     Moodles_foodeaten_desc_lvl2 = "+2 capacite inventaire<br>+30% regeneration",
