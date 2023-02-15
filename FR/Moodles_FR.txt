@@ -1,20 +1,20 @@
 Moodles_FR = {
     -- Description of moodle:
     -- Endurance
-    Moodles_endurance_desc_lvl1 = "25%^ Essouffle<br>faible reduction portee mode recherche<br>-50% dmg melee.<br>-7% vit.attaque<br>+10% risque trebucher<br>-5% reussite escalade<br>-19% vitesse<br>-2% esquive frontale",
-    Moodles_endurance_desc_lvl2 = "50%^ Essouffle<br>reduction portee mode recherche<br>-80% dmg melee.<br>-14% vit.attaque<br>+20% risque trebucher<br>-10% reussite escalade<br>-37% vitesse<br>-4% esquive frontale<br>sprint desactive",
-    Moodles_endurance_desc_lvl3 = "75%^ Essouffle<br>portee mode recherche reduite<br>-90% dmg melee.<br>-21% vit.attaque<br>+30% risque trebucher<br>-15% reussite escalade<br>-56% vitesse<br>-6% esquive frontale<br>course, entrainement desactive",
-    Moodles_endurance_desc_lvl4 = "90%^ Essouffle<br>portee mode recherche fortement reduite<br>-95% dmg melee.<br>-28% vit.attaque<br>+40% risque trebucher<br>-20% reussite escalade<br>-75% vitesse<br>-8% esquive frontale<br>course, entrainement, armes lourdes desactive",
+    Moodles_endurance_desc_lvl1 = "25%^ Essouffle<br>faible reduction portee / assombrissement mode recherche<br>-50% dmg melee.<br>-7% vit.attaque<br>+10% risque trebucher<br>-5% reussite escalade<br>-19% vitesse<br>-2% esquive frontale",
+    Moodles_endurance_desc_lvl2 = "50%^ Essouffle<br>reduction portee / assombrissement mode recherche<br>-80% dmg melee.<br>-14% vit.attaque<br>+20% risque trebucher<br>-10% reussite escalade<br>-37% vitesse<br>-4% esquive frontale<br>sprint desactive",
+    Moodles_endurance_desc_lvl3 = "75%^ Essouffle<br>importante reduction portee / assombrissement mode recherche<br>-90% dmg melee.<br>-21% vit.attaque<br>+30% risque trebucher<br>-15% reussite escalade<br>-56% vitesse<br>-6% esquive frontale<br>course, entrainement desactive",
+    Moodles_endurance_desc_lvl4 = "90%^ Essouffle<br>importante reduction portee / assombrissement mode recherche<br>-95% dmg melee.<br>-28% vit.attaque<br>+40% risque trebucher<br>-20% reussite escalade<br>-75% vitesse<br>-8% esquive frontale<br>course, entrainement, armes lourdes desactive",
     -- Heavy load
     Moodles_heavyload_desc_lvl1 = "100%^ Surcharge<br>-5% crit, -7% vit.attaque<br>+13% risque trebucher<br>-8% reussite escalade<br>-19% vitesse<br>-2% esquive frontale<br>moins de regen endurance",
     Moodles_heavyload_desc_lvl2 = "125%^ Surcharge<br>-10% crit, -14% vit.attaque<br>+26% risque trebucher<br>-16% reussite escalade<br>-37% vitesse<br>-4% esquive frontale<br>peu de regen endurance<br>sprint desactive",
     Moodles_heavyload_desc_lvl3 = "150%^ Surcharge<br>-15% crit, -21% vit.attaque<br>+39% risque trebucher<br>-24% reussite escalade<br>-56% vitesse<br>-6% esquive frontale<br>perte d'endurance en marchant<br>course desactive<br>Perte PV",
     Moodles_heavyload_desc_lvl4 = "175%^ Surcharge<br>-20% crit, -28% vit.attaque<br>+52% risque trebucher<br>-32% reussite escalade<br>-75% vitesse<br>-8% esquive frontale<br>perte d'endurance<br>course desactive<br>Perte PV",
     -- Tired
-    Moodles_tired_desc_lvl1 = "60%^ Somnolence<br>faible reduction portee mode recherche<br>-50% dmg melee.<br>faible baisse vision,conscience<br>raideur musculaire<br>-3% esquive frontale<br>gain d'endurance reduit",
-    Moodles_tired_desc_lvl2 = "70%^ Somnolence<br>reduction portee mode recherche<br>-80% dmg melee.<br>baisse vision,conscience<br>raideur musculaire<br>-6% esquive frontale<br>gain d'endurance faible",
-    Moodles_tired_desc_lvl3 = "80%^ Somnolence<br>portee mode recherche reduite<br>-90% dmg melee.<br>forte baisse vision,conscience<br>raideur musculaire<br>-9% esquive frontale<br>gain d'endurance tres faible<br>peut dormir malgres une douleur elevee",
-    Moodles_tired_desc_lvl4 = "90%^ Somnolence<br>portee mode recherche fortement reduite<br>-95% dmg melee.<br>faible vision<br>plus de visions arriere<br>raideur musculaire<br>-12% esquive frontale<br>gain d'endurance desactive<br>peut dormir malgres une douleur elevee",
+    Moodles_tired_desc_lvl1 = "60%^ Somnolence<br>reduction portee / assombrissement mode recherche<br>-50% dmg melee.<br>faible baisse vision,conscience<br>raideur musculaire<br>-3% esquive frontale<br>gain d'endurance reduit",
+    Moodles_tired_desc_lvl2 = "70%^ Somnolence<br>importante reduction portee / assombrissement mode recherche<br>-80% dmg melee.<br>baisse vision,conscience<br>raideur musculaire<br>-6% esquive frontale<br>gain d'endurance faible",
+    Moodles_tired_desc_lvl3 = "80%^ Somnolence<br>importante reduction portee / assombrissement mode recherche<br>-90% dmg melee.<br>forte baisse vision,conscience<br>raideur musculaire<br>-9% esquive frontale<br>gain d'endurance tres faible<br>peut dormir malgres une douleur elevee",
+    Moodles_tired_desc_lvl4 = "90%^ Somnolence<br>importante reduction portee / assombrissement mode recherche<br>-95% dmg melee.<br>faible vision<br>plus de visions arriere<br>raideur musculaire<br>-12% esquive frontale<br>gain d'endurance desactive<br>peut dormir malgres une douleur elevee",
     -- CantSprint
     Moodles_CantSprint_desc = "des habits/sacs/items lourd, te ralentisse ! sprint desactive",
     -- Thirsty
@@ -49,14 +49,14 @@ Moodles_FR = {
     Moodles_unhappy_desc_lvl4 = "80%^ Mecontent<br>-40% vitesse d'action",
     -- Stress
     Moodles_stress_desc_lvl1 = "25%^ Stress<br>faible reduction portee mode recherche",
-    Moodles_stress_desc_lvl2 = "50%^ Stress<br>reduction portee mode recherche<br>degat reduit de 0.1<br>mecontentement augmente",
-    Moodles_stress_desc_lvl3 = "75%^ Stress<br>portee mode recherche reduite<br>degat reduit de 0.2<br>mecontentement augmente vite",
-    Moodles_stress_desc_lvl4 = "90%^ Stress<br>portee mode recherche fortement reduite<br>degat reduit de 0.3<br>mecontentement en forte hausse",
+    Moodles_stress_desc_lvl2 = "50%^ Stress<br>reduction portee / assombrissement mode recherche<br>degat reduit de 0.1<br>mecontentement augmente",
+    Moodles_stress_desc_lvl3 = "75%^ Stress<br>importante reduction portee / assombrissement mode recherche<br>degat reduit de 0.2<br>mecontentement augmente vite",
+    Moodles_stress_desc_lvl4 = "90%^ Stress<br>extreme reduction portee / assombrissement mode recherche<br>degat reduit de 0.3<br>mecontentement en forte hausse",
     -- Panic
-    Moodles_panic_desc_lvl1 = "6%^ Panique<br>-1,3% crit<br>faible reduction portee mode recherche<br>armes : -5% vitesse de rechargement",
-    Moodles_panic_desc_lvl2 = "30%^ Panique<br>-2,6% crit<br>reduction portee mode recherche<br>degat melee -0.1<br>se leve plus vite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
-    Moodles_panic_desc_lvl3 = "65%^ Panique<br>-3,9% crit<br>portee mode recherche reduite<br>degat melee -0.2<br>degat distance -0.4 (si competence tir < 6)<br>se leve plus vite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
-    Moodles_panic_desc_lvl4 = "80%^ Panique<br>-5,2% crit<br>portee mode recherche fortement reduite<br>degat melee -0.3<br>degat distance -0.6 (si competence tir < 6)<br>se leve plus vite<br>vision reduite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
+    Moodles_panic_desc_lvl1 = "6%^ Panique<br>-1,3% crit<br>tres faible reduction portee mode recherche<br>armes : -5% vitesse de rechargement",
+    Moodles_panic_desc_lvl2 = "30%^ Panique<br>-2,6% crit<br>reduction portee / assombrissement mode recherche<br>degat melee -0.1<br>se leve plus vite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
+    Moodles_panic_desc_lvl3 = "65%^ Panique<br>-3,9% crit<br>importante reduction portee / assombrissement mode recherche<br>degat melee -0.2<br>degat distance -0.4 (si competence tir < 6)<br>se leve plus vite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
+    Moodles_panic_desc_lvl4 = "80%^ Panique<br>-5,2% crit<br>extreme reduction portee / assombrissement mode recherche<br>degat melee -0.3<br>degat distance -0.6 (si competence tir < 6)<br>se leve plus vite<br>vision reduite<br>moins de poussee/chance de renverse/precision/temps de rechargement",
     -- Wet
     Moodles_wet_desc_lvl1 = "15%^ Humidite<br>pas d'effets",
     Moodles_wet_desc_lvl2 = "40%^ Humidite<br>faible risque d'attraper froid",
