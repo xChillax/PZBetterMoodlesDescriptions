@@ -19,7 +19,7 @@ Moodles_CH = {
 	Moodles_tired_desc_lvl4 = "90%以上疲勞值<br>劇烈降低覓食視野<br>-95%近戰傷害<br>劇烈降低命中/視野/聽覺，看不見身後<br>肌肉痠痛恢復降低以及耐力停止回復<br>即使疼痛值很高，您還是可以入睡<br>-12%對殭屍致命打擊的機率",
 	
 	-- CantSprint
-    Moodles_CantSprint_desc = "你身上的東西太多了，正在減慢你的移動速度！<br>無法進行衝刺"
+	Moodles_CantSprint_desc = "你身上的東西太多了，正在減慢你的移動速度！<br>無法進行衝刺"
 	
 	-- 口渴 Thirsty
 	Moodles_thirst_desc_lvl1 = "12%以上口渴值<br>無影響",
@@ -78,8 +78,8 @@ Moodles_CH = {
 	--潮濕 Wet
 	Moodles_wet_desc_lvl1 = "15%以上潮濕度<br>無影響",
 	Moodles_wet_desc_lvl2 = "40%以上潮濕度<br>較低機率感冒",
-    Moodles_wet_desc_lvl3 = "70%以上潮濕度<br>有機率感冒",
-    Moodles_wet_desc_lvl4 = "90%以上潮濕度<br>很有可能感冒",
+	Moodles_wet_desc_lvl3 = "70%以上潮濕度<br>有機率感冒",
+	Moodles_wet_desc_lvl4 = "90%以上潮濕度<br>很有可能感冒",
 	
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "20%以上感冒嚴重度<br>打噴嚏/咳嗽",
