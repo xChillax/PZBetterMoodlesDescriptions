@@ -113,7 +113,7 @@ Moodles_CH = {
 	
 	-- 發熱 Hyperthermia
 	Moodles_hyperthermia_desc_lvl1 = "體温37.5°C<br>口渴值/疲勞值略微上升",
-	Moodles_hyperthermia_desc_lvl2 = "體温39°C<<br>口渴值/疲勞度上升<br>-34%攻速<br>-34%移速",
+	Moodles_hyperthermia_desc_lvl2 = "體温39°C<br>口渴值/疲勞度上升<br>-34%攻速<br>-34%移速",
 	Moodles_hyperthermia_desc_lvl3 = "體温40°C<br>口渴值/疲勞度大幅上升<br>-67%攻速<br>-67%移速",
 	Moodles_hyperthermia_desc_lvl4 = "體温41°C<br>口渴值/疲勞度急速上升<br>-90%攻速<br>-100%移速<br>流失生命值",
 	
