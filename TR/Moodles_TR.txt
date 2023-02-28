@@ -1,0 +1,114 @@
+Moodles_TR = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "25%^ Bitkin<br>araştırma görüş alanı biraz azaldı<br>-50% yakın dövüş hasarı<br>-7% saldırı hızı<br>+10% atlarken takılma şansı<br>-5% uzun çitlere tırmanma şansı<br>-19% hız<br>-2% önden gelen zombi ataklarını bloklama şansı",
+	Moodles_endurance_desc_lvl2 = "50%^ Bitkin<br>araştırma görüş alanı biraz azaldı ve karardı<br>-80% yakın dövüş hasarı<br>-14% saldırı hızı<br>+20% atlarken takılma şansı<br>-10% uzun çitlere tırmanma şansı<br>-37% hız<br>-4% önden gelen zombi ataklarını bloklama şansı<br>hızlı koşamıyorsun",
+	Moodles_endurance_desc_lvl3 = "75%^ Bitkin<br>berbat ve karanlık araştırma görüşü<br>-90% yakın dövüş hasarı<br>-21% saldırı hızı<br>+30% atlarken takılma şansı<br>-15% uzun çitlere tırmanma şansı<br>-56% hız<br>-6% önden gelen zombi ataklarını bloklama şansı<br>hızlı koşamıyorsun<br>koşamıyorsun<br>hızlı yürüyemiyorsun<br>egzersiz yapamıyorsun",
+	Moodles_endurance_desc_lvl4 = "90%^ Bitkin<br>berbat ve karanlık araştırma görüşü<br>-95% yakın dövüş hasarı<br>-28% saldırı hızı<br>+40% atlarken takılma şansı<br>-20% uzun çitlere tırmanma şansı<br>-75% hız<br><br>-8% önden gelen zombi ataklarını bloklama şansı<br>hızlı koşamıyorsun<br>koşamıyorsun<br>hızlı yürüyemiyorsun<br>egzersiz yapamıyorsun<br>ağır silahlar kullanamıyorsun",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "100%^ Kapasitenin üstünde<br>-5% kritik şansı<br>-7% saldırı hızı<br>+13% atlarken takılma şansı<br>-8% uzun çitlere tırmanma şansı<br>-19% hız<br>-2% önden gelen zombi ataklarını bloklama şansı<br>dayanıklılık geri kazanma azaldı",
+	Moodles_heavyload_desc_lvl2 = "125%^ Kapasitenin üstünde<br>-10% kritik şansı<br>-14% saldırı hızı<br>+26% atlarken takılma şansı<br>-16% uzun çitlere tırmanma şansı<br>-37% hız<br>-4% önden gelen zombi ataklarını bloklama şansı<br>dayanıklılık geri kazanma çok azaldı<br>hızlı koşamıyorsun",
+	Moodles_heavyload_desc_lvl3 = "150%^ Kapasitenin üstünde<br>-15% kritik şansı<br>-21% saldırı hızı<br>+39% atlarken takılma şansı<br>-24% uzun çitlere tırmanma şansı<br>-56% hız<br>-6% önden gelen zombi ataklarını bloklama şansı<br>dayanıklılık geri kazanamıyorsun<br>koşamıyorsun<br>egzersiz yapamıyorsun<br>can kaybediyorsun",
+	Moodles_heavyload_desc_lvl4 = "175%^ Kapasitenin üstünde<br>-20% kritik şansı<br>-28% saldırı hızı<br>+52% atlarken takılma şansı<br>-32% uzun çitlere tırmanma şansı<br>-75% hız<br>-8% önden gelen zombi ataklarını bloklama şansı<br>dayanıklılık kaybediyorsun<br>koşamıyorsun<br>egzersiz yapamıyorsun<br>can kaybediyorsun",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "60%^ Yorgun<br>araştırma görüş alanı biraz azaldı ve karardı<br>-50% yakın dövüş hasarı<br>nişan alma doğruluğu biraz azaldı<br>görme biraz azaldı<br>farkındalık azaldı<br>kas tutulması arttı<br>dayanıklılık geri kazanma azaldı<br>-3% önden gelen zombi ataklarını bloklama şansı",
+	Moodles_tired_desc_lvl2 = "70%^ Yorgun<br>araştırma görüş alanı biraz azaldı ve karardı<br>-80% yakın dövüş hasarı<br>nişan alma doğruluğu azaldı<br>görme azaldı<br>farkındalık çok azaldı<br>kas tutulması arttı<br>dayanıklılık geri kazanma çok azaldı<br>-6% önden gelen zombi ataklarını bloklama şansı",
+	Moodles_tired_desc_lvl3 = "80%^ Yorgun<br>berbat ve karanlık araştırma görüşü<br>-90% yakın dövüş hasarı<br>nişan alma doğruluğu çok azaldı<br>görme çok azaldı<br>berbat farkındalık<br>kas tutulması arttı<br>berbat dayanıklılık geri kazanma<br>çok acı çeksen bile uyuyabilirsin<br>-9% önden gelen zombi ataklarını bloklama şansı",
+	Moodles_tired_desc_lvl4 = "90%^ Yorgun<br>berbat ve karanlık araştırma görüşü<br>-95% yakın dövüş hasarı<br>berbat nişan alma doğruluğu<br>berbat görme<br>arkanı göremiyorsun<br>kas tutulması arttı<br>dayanıklılık geri kazanamıyorsun<br>çok acı çeksen bile uyuyabilirsin<br>-12% önden gelen zombi ataklarını bloklama şansı",
+	-- CantSprint
+	Moodles_CantSprint_desc = "ağır kıyafetler, çantalar ya da eşyalar seni yavaşlatıyor!<br>koşamıyorsun",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "12%^ Susamış<br>etki yok",
+	Moodles_thirst_desc_lvl2 = "25%^ Susamış<br>-1 taşıma kapasitesi<br>-35% hızlı iyileşme<br>vücut sıcaklığı artıyor",
+	Moodles_thirst_desc_lvl3 = "70%^ Susamış<br>-2 taşıma kapasitesi<br>-65% hızlı iyileşme<br>vücut sıcaklığı hızlı artıyor",
+	Moodles_thirst_desc_lvl4 = "84%^ Susamış<br>-2 taşıma kapasitesi<br>-100% hızlı iyileşme<br>vücut sıcaklığı hızlıca artıyor<br>can kaybediyorsun",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ Aç<br>+7.5% yemek bulmak için araştırma görüş alanı",
+	Moodles_hungry_desc_lvl2 = "25%^ Aç<br>+12.5% yemek bulmak için araştırma görüş alanı<br>-1 taşıma kapasitesi<br>-15% vücut sıcaklığı<br>-35% hızlı iyileşme",
+	Moodles_hungry_desc_lvl3 = "45%^ Aç<br>+22.5% yemek bulmak için araştırma görüş alanı<br>-2 taşıma kapasitesi<br>-35% vücut sıcaklığı<br>-60% hızlı iyileşme",
+	Moodles_hungry_desc_lvl4 = "70%^ Aç<br>+35% yemek bulmak için araştırma görüş alanı<br>-2 taşıma kapasitesi<br>-50% vücut sıcaklığı<br>-100% hızlı iyileşme<br>can kaybediyorsun",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "13 saniye tokluk<br>+2 taşıma kapasitesi<br>+15% hızlı iyileşme",
+	Moodles_foodeaten_desc_lvl2 = "14,6 saniye tokluk<br>+2 taşıma kapasitesi<br>+30% hızlı iyileşme",
+	Moodles_foodeaten_desc_lvl3 = "16,2 saniye tokluk<br>+2 taşıma kapasitesi<br>+45% hızlı iyileşme<br>daha fazla yemek yiyemiyorsun",
+	Moodles_foodeaten_desc_lvl4 = "17,8 saniye tokluk<br>+2 taşıma kapasitesi<br>+60% hızlı iyileşme<br>daha fazla yemek yiyemiyorsun",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%^ Sarhoş<br>araştırma görüş alanı biraz azaldı<br>sıkkınlık yavaşça azalıyor<br>yorgunluk biraz arttı<br>direksiyon hakimiyeti biraz azaldı<br>nişan alma doğruluğu biraz azaldı<br>vücut sıcaklığı biraz azalıyor",
+	Moodles_drunk_desc_lvl2 = "30%^ Sarhoş<br>araştırma görüş alanı azaldı<br>sıkkınlık azalıyor<br>yorgunluk arttı<br>direksiyon hakimiyeti azaldı<br>nişan alma doğruluğu azaldı<br>vücut sıcaklığı azalıyor",
+	Moodles_drunk_desc_lvl3 = "50%^ Sarhoş<br>berbat araştırma görüş alanı<br>sıkkınlık hızlıca azalıyor<br>yorgunluk çok arttı<br>direksiyon hakimiyeti çok azaldı<br>nişan alma doğruluğu çok azaldı<br>vücut sıcaklığı hızlıca azalıyor",
+	Moodles_drunk_desc_lvl4 = "70%^ Sarhoş<br>berbat araştırma görüş alanı<br>sıkkınlık çok hızlı azalıyor<br>berbat yorgunluk<br>berbat direksiyon hakimiyeti<br>berbat nişan alma doğruluğu<br>vücut sıcaklığı çok hızlı azalıyor",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%^ Sıkılmış<br>etki yok",
+	Moodles_bored_desc_lvl2 = "50%^ Sıkılmış<br>mutsuzluk yavaşça artıyor",
+	Moodles_bored_desc_lvl3 = "75%^ Sıkılmış<br>mutsuzluk artıyor",
+	Moodles_bored_desc_lvl4 = "90%^ Sıkılmış<br>mutsuzluk hızlıca artıyor",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%^ Mutsuz<br>-10% daha yavaş hareketler",
+	Moodles_unhappy_desc_lvl2 = "45%^ Mutsuz<br>-20% daha yavaş hareketler",
+	Moodles_unhappy_desc_lvl3 = "60%^ Mutsuz<br>-30% daha yavaş hareketler",
+	Moodles_unhappy_desc_lvl4 = "80%^ Mutsuz<br>-40% daha yavaş hareketler",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "25%^ Kızgın<br>etki yok",
+	Moodles_angry_desc_lvl2 = "50%^ Kızgın<br>etki yok",
+	Moodles_angry_desc_lvl3 = "75%^ Kızgın<br>etki yok",
+	Moodles_angry_desc_lvl4 = "90%^ Kızgın<br>etki yok",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%^ Stresli<br>araştırma görüş alanı biraz azaldı",
+	Moodles_stress_desc_lvl2 = "50%^ Stresli<br>araştırma görüş alanı biraz azaldı ve karardı<br>-0.1 hasar<br>mutsuzluk biraz artıyor",
+	Moodles_stress_desc_lvl3 = "75%^ Stresli<br>araştırma görüş alanı çok azaldı ve karardı<br>-0.2 hasar<br>mutsuzluk artıyor",
+	Moodles_stress_desc_lvl4 = "90%^ Stresli<br>berbat ve karanlık araştırma görüşü<br>-0.3 hasar<br>mutsuzluk hızlıca artıyor",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "6%^ Paniklemiş<br>araştırma görüş alanı biraz azaldı<br>-1.3% kritik şansı<br>daha kötü şarjör doldurma zamanı ve hızı<br>daha kötü istirahat vakti",
+	Moodles_panic_desc_lvl2 = "30%^ Paniklemiş<br>araştırma görüş alanı biraz azaldı<br>-2.6% kritik şansı<br>-0.1 yakın dövüş hasarı<br>otururken daha hızlı kalkar<br>daha kötü geri itme<br>daha az yere serme şansı<br>daha kötü nişan alma doğruluğu<br>daha kötü şarjör doldurma zamanı ve hızı<br>daha kötü istirahat vakti",
+	Moodles_panic_desc_lvl3 = "65%^ Paniklemiş<br>araştırma görüş alanı azaldı ve karardı<br>-3.9% kritik şansı<br>-0.2 yakın dövüş hasarı<br>-0.4 menzilli hasarı (eğer nişan alma seviyesi 6dan azsa)<br>otururken daha hızlı kalkar<br>daha kötü geri itme<br>daha az yere serme şansı<br>daha kötü nişan alma doğruluğu<br>daha kötü şarjör doldurma zamanı ve hızı<br>daha kötü istirahat vakti",
+	Moodles_panic_desc_lvl4 = "80%^ Paniklemiş<br>berbat ve karanlık araştırma görüşü<br>-5.2% kritik şansı<br>-0.3 yakın dövüş hasarı<br>-0.6 menzilli hasarı (eğer nişan alma seviyesi 6dan azsa)<br>otururken daha hızlı kalkar<br>görüş alanı daralır<br>daha kötü geri itme<br>daha az yere serme şansı<br>daha kötü nişan alma doğruluğu<br>daha kötü şarjör doldurma zamanı ve hızı<br>daha kötü istirahat vakti",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%^ Islak<br>etki yok",
+	Moodles_wet_desc_lvl2 = "40%^ Islak<br>biraz nezle kapma şansı",
+	Moodles_wet_desc_lvl3 = "70%^ Islak<br>nezle kapma şansı",
+	Moodles_wet_desc_lvl4 = "90%^ Islak<br>yüksek nezle kapma şansı",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ nezle gücü<br>hapşurur ve öksürür",
+	Moodles_hasacold_desc_lvl2 = "40%^ nezle gücü<br>daha çok hapşurur ve öksürür",
+	Moodles_hasacold_desc_lvl3 = "60%^ nezle gücü<br>sık sık hapşurur ve öksürür<br>-20% hız<br>-20% daha yavaş iyileşme",
+	Moodles_hasacold_desc_lvl4 = "75%^ nezle gücü<br>çok fazla hapşurur ve öksürür<br>-35% hız<br>-35% daha yavaş iyileşme",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ İnsidans<br>araştırma görüş alanı biraz azaldı<br>vücut sıcaklığı biraz artar<br>can kaybedebilir",
+	Moodles_sick_desc_lvl2 = "50%^ İnsidans<br>araştırma görüş alanı azaldı<br>vücut sıcaklığı artar<br>-1 taşıma kapasitesi<br>-35% hızlı iyileşme<br>can kaybedebilir",
+	Moodles_sick_desc_lvl3 = "75%^ İnsidans<br>araştırma görüş alanı çok azaldı<br>vücut sıcaklığı çok artar<br>-2 taşıma kapasitesi<br>-60% hızlı iyileşme<br>can kaybedebilir",
+	Moodles_sick_desc_lvl4 = "90%^ İnsidans<br>berbat araştırma görüş alanı<br>vücut sıcaklığı çok artar<br>-3 taşıma kapasitesi<br>can kaybedebilir",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80%v can<br>etki yok",
+	Moodles_injured_desc_lvl2 = "60%v can<br>-1 taşıma kapasitesi",
+	Moodles_injured_desc_lvl3 = "40%v can<br>-2 taşıma kapasitesi",
+	Moodles_injured_desc_lvl4 = "25%v can<br>-3 taşıma kapasitesi",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "10%^ Acı Çekiyor<br>araştırma görüş alanı biraz azaldı<br>+5% atlarken takılma şansı",
+	Moodles_pain_desc_lvl2 = "20%^ Acı Çekiyor<br>araştırma görüş alanı azaldı<br>+10% atlarken takılma şansı<br>-15% saldırı hasarı<br>-15% saldırı hızı<br>-15% hız<br>uyuyamıyorsun",
+	Moodles_pain_desc_lvl3 = "50%^ Acı Çekiyor<br>araştırma görüş alanı çok azaldı<br>+15% atlarken takılma şansı<br>-20% saldırı hasarı<br>-15% saldırı hızı<br>-15% hız<br>uyuyamıyorsun",
+	Moodles_pain_desc_lvl4 = "75%^ Acı Çekiyor<br>berbat araştırma görüş alanı<br>+20% atlarken takılma şansı<br>-35% saldırı hasarı<br>-15% saldırı hızı<br>-15% hız<br>uyuyamıyorsun<br>egzersiz yapamıyorsun",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "vücudunun bir tarafı kanıyor<br>yavaşça can kaybediyorsun",
+	Moodles_bleed_desc_lvl2 = "vücudunun iki kanama var<br>-1 taşıma kapasitesi<br>can kaybediyorsun",
+	Moodles_bleed_desc_lvl3 = "vücudunda üç kanama var<br>-1 taşıma kapasitesi<br>hızlı can kaybediyorsun",
+	Moodles_bleed_desc_lvl4 = "vücudunda dört ya da daha fazla kanama var<br>-1 taşıma kapasitesi<br>hızlıca can kaybediyorsun",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "sıcaklık 37.5°C<br>daha kolay yoruluyorsun<br>susama arttı",
+	Moodles_hyperthermia_desc_lvl2 = "sıcaklık 39°C<br>hızlıca yoruluyorsun<br>susama daha çok arttı<br>-34% saldırı hızı<br>-34% hız",
+	Moodles_hyperthermia_desc_lvl3 = "sıcaklık 40°C<br>daha hızlı yoruluyorsun<br>susama hızlı artıyor<br>-67% saldırı hızı<br>-67% hız",
+	Moodles_hyperthermia_desc_lvl4 = "sıcaklık 41°C<br>çok hızlı yoruluyorsun<br>susama çok hızlı artıyor<br>-90% saldırı hızı<br>-100% hız<br>can kaybediyorsun",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "sıcaklık 36.5°C<br>etki yok",
+	Moodles_hypothermia_desc_lvl2 = "sıcaklık 35°C<br>-34% saldırı hızı<br>-34% hız<br>biraz nezle kapma şansı",
+	Moodles_hypothermia_desc_lvl3 = "sıcaklık 30°C<br>-67% saldırı hızı<br>-67% hız<br>nezle kapma şansı",
+	Moodles_hypothermia_desc_lvl4 = "sıcaklık 25°C<br>-90% saldırı hızı<br>-100% hız<br>yüksek nezle kapma şansı<br>can kaybediyorsun",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5°C hissedilenden daha soğuk",
+	Moodles_windchill_desc_lvl2 = "10°C hissedilenden daha soğuk",
+	Moodles_windchill_desc_lvl3 = "15°C hissedilenden daha soğuk",
+	Moodles_windchill_desc_lvl4 = "20°C hissedilenden daha soğuk",
+	-- Dead
+	Moodles_dead_lvl1 = "Nurlar içinde yat.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "En kötü ecel.",
+}
