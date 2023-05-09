@@ -1,0 +1,226 @@
+Moodles_EN = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "Moderate Exertion",
+	Moodles_endurance_lvl2 = "High Exertion",
+	Moodles_endurance_lvl3 = "Excessive Exertion",
+	Moodles_endurance_lvl4 = "Exhausted",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "Fairly Heavy Load",
+	Moodles_heavyload_lvl2 = "Heavy Load",
+	Moodles_heavyload_lvl3 = "Very Heavy Load",
+	Moodles_heavyload_lvl4 = "Extremely Heavy Load",
+	-- Angry
+	Moodles_angry_lvl1 = "Irritated",
+	Moodles_angry_lvl2 = "Annoyed",
+	Moodles_angry_lvl3 = "Angry",
+	Moodles_angry_lvl4 = "Furious",
+	-- Stress
+	Moodles_stress_lvl1 = "Anxious",
+	Moodles_stress_lvl2 = "Agitated",
+	Moodles_stress_lvl3 = "Stressed",
+	Moodles_stress_lvl4 = "Nervous Wreck",
+	-- Thirst
+	Moodles_thirst_lvl1 = "Slightly Thirsty",
+	Moodles_thirst_lvl2 = "Thirsty",
+	Moodles_thirst_lvl3 = "Parched",
+	Moodles_thirst_lvl4 = "Dying of Thirst",
+	-- Tired
+	Moodles_tired_lvl1 = "Drowsy",
+	Moodles_tired_lvl2 = "Tired",
+	Moodles_tired_lvl3 = "Very Tired",
+	Moodles_tired_lvl4 = "Ridiculously Tired",
+	-- Hungry
+	Moodles_hungry_lvl1 = "Peckish",
+	Moodles_hungry_lvl2 = "Hungry",
+	Moodles_hungry_lvl3 = "Very Hungry",
+	Moodles_hungry_lvl4 = "Starving",
+	-- Panic
+	Moodles_panic_lvl1 = "Slight Panic",
+	Moodles_panic_lvl2 = "Panic",
+	Moodles_panic_lvl3 = "Strong Panic",
+	Moodles_panic_lvl4 = "Extreme Panic",
+	-- Sick
+	Moodles_sick_lvl1 = "Queasy",
+	Moodles_sick_lvl2 = "Nauseous",
+	Moodles_sick_lvl3 = "Sick",
+	Moodles_sick_lvl4 = "Fever",
+	-- Bored
+	Moodles_bored_lvl1 = "Getting Bored",
+	Moodles_bored_lvl2 = "Bored",
+	Moodles_bored_lvl3 = "Very Bored",
+	Moodles_bored_lvl4 = "Extremely Bored",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "Feeling a Little Sad",
+	Moodles_unhappy_lvl2 = "Getting a Tad Weepy",
+	Moodles_unhappy_lvl3 = "Depressed",
+	Moodles_unhappy_lvl4 = "Severely Depressed",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "Minor Bleeding",
+	Moodles_bleeding_lvl2 = "Bleeding",
+	Moodles_bleeding_lvl3 = "Severe Bleeding",
+	Moodles_bleeding_lvl4 = "Massive Blood Loss",
+	-- Wet
+	Moodles_wet_lvl1 = "Moist",
+	Moodles_wet_lvl2 = "Wet",
+	Moodles_wet_lvl3 = "Soaking",
+	Moodles_wet_lvl4 = "Drenched",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "Runny Nose",
+	Moodles_hascold_lvl2 = "The Sniffles",
+	Moodles_hascold_lvl3 = "You Have a Cold",
+	Moodles_hascold_lvl4 = "You Have a Nasty Cold",
+	-- Injured
+	Moodles_injured_lvl1 = "Discomfort",
+	Moodles_injured_lvl2 = "Injured",
+	Moodles_injured_lvl3 = "Severe Injuries",
+	Moodles_injured_lvl4 = "Critical Injuries",
+	-- Pain
+	Moodles_pain_lvl1 = "Minor Pain",
+	Moodles_pain_lvl2 = "Pain",
+	Moodles_pain_lvl3 = "Severe Pain",
+	Moodles_pain_lvl4 = "Agony",
+	-- Drunk
+	Moodles_drunk_lvl1 = "A Bit Tipsy",
+	Moodles_drunk_lvl2 = "Inebriated",
+	Moodles_drunk_lvl3 = "Plastered",
+	Moodles_drunk_lvl4 = "Utterly Shit-faced",
+	-- Dead
+	Moodles_dead_lvl1 = "Deceased",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Zombified",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "Satiated",
+	Moodles_foodeaten_lvl2 = "Well Fed",
+	Moodles_foodeaten_lvl3 = "Stuffed",
+	Moodles_foodeaten_lvl4 = "Full to Bursting",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Unpleasantly Hot",
+	Moodles_hyperthermia_lvl2 = "Overheated",
+	Moodles_hyperthermia_lvl3 = "Sunstruck",
+	Moodles_hyperthermia_lvl4 = "Hyperthermic",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "Chilly",
+	Moodles_hypothermia_lvl2 = "Cold",
+	Moodles_hypothermia_lvl3 = "Freezing",
+	Moodles_hypothermia_lvl4 = "Hypothermic",
+    -- Windchill
+    Moodles_windchill_lvl1 = "Slight Windchill",
+    Moodles_windchill_lvl2 = "Uncomfortable Windchill",
+    Moodles_windchill_lvl3 = "Freezing Windchill",
+    Moodles_windchill_lvl4 = "Horrific Windchill",
+
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "-50% damage, -0.07 speed of attack, 10% stumble, -5% chance climb over, -15% speed",
+	Moodles_endurance_desc_lvl2 = "-80% damage, -0.14 speed of attack, 20% stumble, -10% chance climb over, -30% speed, sprint disabled,",
+	Moodles_endurance_desc_lvl3 = "-90% damage, -0.21 speed of attack, 30% stumble, -15% chance climb over, -40% speed, exercises disabled, run disabled",
+	Moodles_endurance_desc_lvl4 = "-95% damage, -0.28 speed of attack, 40% stumble, -20% chance climb over, -60% speed, Heavy weapons can't be used",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "A bit narked off.",
+	Moodles_angry_desc_lvl2 = "Seriously bad mood.",
+	Moodles_angry_desc_lvl3 = "Ball of rage.",
+	Moodles_angry_desc_lvl4 = "Spoiling for a fight.",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "Stress 25%",
+	Moodles_stress_desc_lvl2 = "Stress 50%, -10% Damage, unhappiness grows",
+	Moodles_stress_desc_lvl3 = "Stress 75%, -20% Damage, unhappiness increases",
+	Moodles_stress_desc_lvl4 = "Stress 90%, -30% Damage, unhappiness reaches its peak",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Thirst 13%",
+	Moodles_thirst_desc_lvl2 = "Thirst 25%, -1 Capacity",
+	Moodles_thirst_desc_lvl3 = "Thirst 70%, -3 Capacity",
+	Moodles_thirst_desc_lvl4 = "Thirst 85%, -5 Capacity, Character loses HP",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "-50% Damage, Viewing conus has become a bit narrower",
+	Moodles_tired_desc_lvl2 = "-80% Damage, View conus has become narrower, notices zombies behind badly",
+	Moodles_tired_desc_lvl3 = "-90% Damage, Viewing conus has is much narrower, notices zombies behind even worse",
+	Moodles_tired_desc_lvl4 = "-95% Damage, Scanty cone of vision, Character almost don't pay attention to zombies behind.",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Hunger 15%",
+	Moodles_hungry_desc_lvl2 = "Hunger 25%, -1 Capacity, Heat Dissipation -15, Regeneration -20",
+	Moodles_hungry_desc_lvl3 = "Hunger 45%, -3 Capacity, Heat Dissipation -35, Regeneration -35",
+	Moodles_hungry_desc_lvl4 = "Hunger 70%, -5 Capacity, Heat Dissipation -50, Character loses HP",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "-1,3% crit. damage",
+	Moodles_panic_desc_lvl2 = "-2,3% crit. damage, -10 damage, Character stand up faster",
+	Moodles_panic_desc_lvl3 = "-3,0% crit. damage, -20 damage",
+	Moodles_panic_desc_lvl4 = "-5,2% crit. damage, -30 damage, view conus become smaller",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Incidence 25%",
+	Moodles_sick_desc_lvl2 = "Incidence 50%, -1 Capacity, Regeneration -20%",
+	Moodles_sick_desc_lvl3 = "Incidence 75%, -3 Capacity, Regeneration -45%",
+	Moodles_sick_desc_lvl4 = "Incidence 100%, -6 Capacity, Character loses HP",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "Boredom 25%",
+	Moodles_bored_desc_lvl2 = "Boredom 50%, unhappiness grows",
+	Moodles_bored_desc_lvl3 = "Boredom 75%, unhappiness increases",
+	Moodles_bored_desc_lvl4 = "Boredom 90%, chance to get depression",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Unhappiness 20%",
+	Moodles_unhappy_desc_lvl2 = "Unhappiness 45%, Actions 25% slower",
+	Moodles_unhappy_desc_lvl3 = "Unhappiness 60%, Actions 45% slower",
+	Moodles_unhappy_desc_lvl4 = "Unhappiness 80%, Actions 65% slower",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "The character loses some health",
+	Moodles_bleed_desc_lvl2 = "Character loses health moderately, -1 Capacity",
+	Moodles_bleed_desc_lvl3 = "The character loses a lot of health, -2 Capacity",
+	Moodles_bleed_desc_lvl4 = "The character has a chance to die, -3 Capacity",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Wetness 15%",
+	Moodles_wet_desc_lvl2 = "Wetness 40%",
+    Moodles_wet_desc_lvl3 = "Wetness 70%, chance to catch a cold",
+    Moodles_wet_desc_lvl4 = "Wetness 90%, big chance to catch a cold",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Caught a cold, colds 20",
+	Moodles_hasacold_desc_lvl2 = "Colds 40%",
+	Moodles_hasacold_desc_lvl3 = "Colds 60%, -20% healing",
+	Moodles_hasacold_desc_lvl4 = "Colds 80%, -35% healing",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80% HP",
+	Moodles_injured_desc_lvl2 = "60% HP, -1 Capacity",
+	Moodles_injured_desc_lvl3 = "40% HP, -3 Capacity",
+	Moodles_injured_desc_lvl4 = "25% HP, -6 Capacity",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "5% stumble",
+	Moodles_pain_desc_lvl2 = "5% stumble, -15% speed & damage",
+	Moodles_pain_desc_lvl3 = "5% stumble, -20% speed & damage",
+	Moodles_pain_desc_lvl4 = "5% stumble, -35% speed & damage, Exercises disabled",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "13% stumble, -5% crit. damage, -0.07 attack speed, -8% chance climb over, -15% speed",
+	Moodles_heavyload_desc_lvl2 = "26% stumble, -10% crit. damage, -0.14 attack speed, -16% chance climb over, -30% speed, Sprint disabled",
+	Moodles_heavyload_desc_lvl3 = "39% stumble, -15% crit. damage, -0.21 attack speed, -24% chance climb over, -45% speed, Run disabled",
+	Moodles_heavyload_desc_lvl4 = "52% stumble, -20% crit. damage, -0.28 attack speed, -32% chance climb over, -60% speed",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Intoxication 10%",
+	Moodles_drunk_desc_lvl2 = "Intoxication 30%, chance being tired",
+	Moodles_drunk_desc_lvl3 = "Intoxication 50%, Medium chance being tired",
+	Moodles_drunk_desc_lvl4 = "Intoxication 70%, Big chance being tired",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "Rest in peace friend",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "Worst ending",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Capacity +2, Regeneration +15%, Strength +10%",
+	Moodles_foodeaten_desc_lvl2 = "Capacity +2, Regeneration +25%, Strength +20%",
+	Moodles_foodeaten_desc_lvl3 = "Capacity +2, Regeneration +45%, Strength +25%",
+	Moodles_foodeaten_desc_lvl4 = "Capacity +2, Regeneration +60%, Strength +35%",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "The thirst intensifies. Temperature 37.5*",
+	Moodles_hyperthermia_desc_lvl2 = "High thirst, -34% attack speed, -15% speed. Temperature 39*",
+	Moodles_hyperthermia_desc_lvl3 = "Strong thirst, -67% attack speed, -35% speed. Temperature 40*",
+	Moodles_hyperthermia_desc_lvl4 = "Unbearable thirst, -90% attack speed, -50% speed. Temperature 41*, Charapter loses HP",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Cool, Temperature 36.5*",
+	Moodles_hypothermia_desc_lvl2 = "-34% Attack Speed, -15% Speed, Temperature 35*",
+	Moodles_hypothermia_desc_lvl3 = "-67% Attack Speed, -35% Speed, Temperature 30*"
+	Moodles_hypothermia_desc_lvl4 = "-90% Attack Speed, -50% Speed, Temperature 25*, Character loses HP",
+    -- Windchill
+    Moodles_windchill_desc_lvl1 = "5-10 degrees colder, cool.",
+    Moodles_windchill_desc_lvl2 = "10-15 degrees colder, quite cold.",
+    Moodles_windchill_desc_lvl3 = "15-20 degrees colder, cold",
+    Moodles_windchill_desc_lvl4 = "20 degrees colder, chance to catch a cold.",
+    -- CantSprint
+    Moodles_CantSprint = "Restricted Movement"
+    Moodles_CantSprint_desc = "Heavy clothing, bulky bags or large items slowing you down!"
+}
