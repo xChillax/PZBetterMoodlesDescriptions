@@ -110,5 +110,5 @@ Moodles_PL = {
 	-- Dead
 	Moodles_dead_lvl1 = "Spoczywaj w pokoju.",
 	-- Zombified
-	Moodles_zombie_lvl1 = "Najgorsze zakończenie."
+	Moodles_zombie_lvl1 = "Najgorsze zakończenie.",
 }
