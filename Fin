@@ -1,0 +1,114 @@
+Moodles_FIN = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "25%^ kestävyys<br>lievästi heikompi näkyvyys sienestämässä<br>-50% lähitaistelu vahinko<br>-7% hyökkäys nopeus<br>+10% kaatumis mahdollisuus kiivetessä<br>-5% kiipeämis mahdollisuus korkeiden aitojen yli<br>-19% nopeus<br>-2% mahdollisuus suojata edestä päin hyökkäävä zombin isku",
+	Moodles_endurance_desc_lvl2 = "50%^ kestävyys<br>heikompi näkyvyys sienestämässä<br>-80% lähitaistelu vahinko<br>-14% hyökkäys nopeus<br>+20% kaatumis mahdollisuus kiivetessä<br>-10% kiipeämis mahdollisuus korkeiden aitojen yli<br>-37% nopeus<br>-4% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>estetty hölkääminen",
+	Moodles_endurance_desc_lvl3 = "75%^ kestävyys<br>heikko näkyvyys sienestämässä<br>-90% lähitaistelu vahinko<br>-21% hyökkäys nopeus<br>+30% kaatumis mahdollisuus kiivetessä<br>-15% kiipeämis mahdollisuus korkeiden aitojen yli<br>-56% nopeus<br>-6% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>estetty hölkääminen<br>estetty juokseminen<br>estetty hölkääminen<br>estetty kuntoilu",
+	Moodles_endurance_desc_lvl4 = "90%^ kestävyys<br>huono näkyvyys sienestämässä<br>-95% lähitaistelu vahinko<br>-28% hyökkäys nopeus<br>+40% kaatumis mahdollisuus kiivetessä<br>-20% kiipeämis mahdollisuus korkeiden aitojen yli<br>-75% nopeus<br>-8% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>estetty hölkääminen<br>estetty juokseminen<br>estetty hölkääminen<br>estetty kuntoilu<br>estetty painavien aseiden käyttö ",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "100%^ Yli paino<br>-5% Kriitinen. Mahdollisuus<br>-7% hyökkäys nopeus<br>+13% kaatumis mahdollisuus kiivetessä<br>-8% kiipeämis mahdollisuus korkeiden aitojen yli<br>-19% nopeus<br>-2% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>hidastettu kestävyyden palautuminen",
+	Moodles_heavyload_desc_lvl2 = "125%^ Yli paino<br>-10% Kriitinen. Mahdollisuus<br>-14% hyökkäys nopeus<br>+26% kaatumis mahdollisuus kiivetessä<br>-16% mahdollisuus kiivetä korkeiden aitojen yli<br>-37% nopeus<br>-4% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>raskaasti hidastettu kestävyyden palautuminen<br>estetty juokseminen",
+	Moodles_heavyload_desc_lvl3 = "150%^ Yli paino<br>-15% Kriitinen. Mahdollisuus<br>-21% hyökkäys nopeus<br>+39% kaatumis mahdollisuus kiivetessä<br>-24% mahdollisuus kiivetä korkeiden aitojen yli<br>-56% nopeus<br>-6% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>kestävyyden palautuminen estetty<br>estetty juokseminen<br>estetty kuntoilu<br>menetät HP",
+	Moodles_heavyload_desc_lvl4 = "175%^ Yli paino<br>-20% Kriitinen. Mahdollisuus<br>-28% hyökkäys nopeus<br>+52% kaatumis mahdollisuus kiivetessä<br>-32% mahdollisuus kiivetä korkeiden aitojen yli<br>-75% nopeus<br>-8% mahdollisuus suojata edestä päin hyökkäävä zombin isku<br>kestävyyden menettäminen<br>estetty juokseminen<br>estetty kuntoilu<br>menetät HP",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "60%^ Väsynyt<br>lievästi heikompi näkyvyys sienestämässä<br>-50% lähitaistelu vahinko<br>lievästi heikentynyt tarkkuus<br>lievästi heikentynyt näkyvyys<br>lieventynyt tietoisuus<br>lisääntynyt lihas jäykkyys<br>hidastettu kestävyyden palautuminen<br>-3% mahdollisuus suojata edestä päin hyökkäävä zombin isku",
+	Moodles_tired_desc_lvl2 = "70%^ Väsynyt<br>heikompi näkyvyys sienestämässä<br>-80% lähitaistelu vahinko<br>heikentynyt tarkkuus<br>heikentynyt näkyvyys<br>lievä tietoisuus<br>lisääntynyt lihas jäykkyys<br>raskaasti hidastettu kestävyyden palautuminen<br>-6% mahdollisuus suojata edestä päin hyökkäävä zombin isku",
+	Moodles_tired_desc_lvl3 = "80%^ Väsynyt<br>heikko näkyvyys sienestämässä<br>-90% lähitaistelu vahinko<br>huono tarkkuus<br>huono näkyvyys<br>huono tietoisuus<br>lisääntynyt lihas jäykkyys<br>erittäin raskaasti hidastettu kestävyyden palautuminen<br>voit nukkua kovassa kivussa<br>-9% mahdollisuus suojata edestä päin hyökkäävä zombin isku",
+	Moodles_tired_desc_lvl4 = "90%^ Väsynyt<br>huono näkyvyys sienestämässä<br>-95% lähitaistelu vahinko<br>erittäin huono tarkkuus<br>erittäin huono näkyvyys<br>et voi nähdä taaksesi<br>lisääntynyt lihas jäykkyys<br>estetty kestävyyden palautimenen<br>voit nukkua kovassa kivussa<br>-12% mahdollisuus suojata edestä päin hyökkäävä zombin isku",
+	-- CantSprint                      
+	Moodles_CantSprint_desc = "painavat vaateet, reput, tai esineet hidastavat sinua!<br>estetty juokseminen",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "12%^ Jano<br>Ei vaikutuksia",
+	Moodles_thirst_desc_lvl2 = "25%^ Jano<br>-1 kuorman kanto kyky<br>-35% nopeampi parantuminen<br>kehon lämpö nousee",
+	Moodles_thirst_desc_lvl3 = "70%^ Jano<br>-2 kuorman kanto kyky<br>-65% nopeampi parantuminen<br>kehon lämpö nousee nopeasti",
+	Moodles_thirst_desc_lvl4 = "84%^ Jano<br>-2 kuorman kanto kyky<br>-100% nopeampi parantuminen<br>kehon lämpö nousee todella nopeasti<br>Menetät HP",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ Nälkä<br>+7.5% näkyvyys sienestämässä ruokaa",
+	Moodles_hungry_desc_lvl2 = "25%^ Nälkä<br>+12.5% näkyvyys sienestämässä ruokaa<br>-1 kuorman kanto kyky<br>-15% kehon lämpö<br>-35% nopeampi parantuminen",
+	Moodles_hungry_desc_lvl3 = "45%^ Nälkä<br>+22.5% näkyvyys sienestämässä ruokaa<br>-2 kuorman kanto kyky<br>-35% kehon lämpö<br>-60% nopeampi parantuminen",
+	Moodles_hungry_desc_lvl4 = "70%^ Nälkä<br>+35% näkyvyys sienestämässä ruokaa<br>-2 kuorman kanto kyky<br>-50% kehon lämpö<br>-100% nopeampi parantuminen<br>menetät HP",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "13 sekunttia maha täynä<br>+2 kuorman kanto kyky<br>+15% nopeampi parantuminen",
+	Moodles_foodeaten_desc_lvl2 = "14,6 sekunttia maha täynä<br>+2 kuorman kanto kyky<br>+30% nopeampi parantuminen",
+	Moodles_foodeaten_desc_lvl3 = "16,2 sekunttia maha täynä<br>+2 kuorman kanto kyky<br>+45% nopeampi parantuminen<br>estetty syöminen",
+	Moodles_foodeaten_desc_lvl4 = "17,8 sekunttia maha täynä<br>+2 kuorman kanto kyky<br>+60% nopeampi parantuminen<br>estetty syöminen",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%^ Humalassa<br>lievästi heikompi näkyvyys sienestämässä<br>masennus laskee hiukan<br>lievä uupumus<br>heikentynyt ohjaus autossa<br>lievästi heikentynyt tarkkuus<br>kehon lämpö hieman laskussa",
+	Moodles_drunk_desc_lvl2 = "30%^ Humalassa<br>heikompi näkyvyys sienestämässä<br>masennus laskee<br>uupumus<br>heikentynyt ohjaus autossa<br>heikentynyt tarkkuus<br>kehon lämpö laskussa",
+	Moodles_drunk_desc_lvl3 = "50%^ Humalassa<br>heikko näkyvyys sienestämässä<br>masennus laskee nopeasti<br>kova uupumus<br>heikentynyt ohjaus autossa<br>huono tarkkuus<br>kehon lämpö laskussa nopeasti",
+	Moodles_drunk_desc_lvl4 = "70%^ Humalassa<br>huono näkyvyys sienestämässä<br>masennus laskee todella nopeasti<br>erittäin uupunut<br>surkea ohjaus autossa<br>erittäin huono tarkkuus<br>kehon lämpö laskussa todella nopeasti",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%^ Tylsistynyt<br>ei vaikutuksia",
+	Moodles_bored_desc_lvl2 = "50%^ Tylsistynyt<br>masennus kasvaa",
+	Moodles_bored_desc_lvl3 = "75%^ Tylsistynyt<br>masennus kasvaa",
+	Moodles_bored_desc_lvl4 = "90%^ Tylsistynyt<br>masennus kasvaa nopeasti",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%^ Masentunut<br>-10% hitaampi toiminta",
+	Moodles_unhappy_desc_lvl2 = "45%^ Masentunut<br>-20% hitaampi toiminta",
+	Moodles_unhappy_desc_lvl3 = "60%^ Masentunut<br>-30% hitaampi toiminta",
+	Moodles_unhappy_desc_lvl4 = "80%^ Masentunut<br>-40% hitaampi toiminta",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "25%^ Vihainen<br>ei vaikutuksia",
+	Moodles_angry_desc_lvl2 = "50%^ Vihainen<br>ei vaikutuksia",
+	Moodles_angry_desc_lvl3 = "75%^ Vihainen<br>ei vaikutuksia",
+	Moodles_angry_desc_lvl4 = "90%^ Vihainen<br>ei vaikutuksia",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%^ Stressaantunut<br>lievästi heikompi näkyvyys sienestämässä",
+	Moodles_stress_desc_lvl2 = "50%^ Stressaantunut<br>heikompi näkyvyys sienestämässä<br>-0.1 vahinko<br>masennus kasvaa lievästi",
+	Moodles_stress_desc_lvl3 = "75%^ Stressaantunut<br>heikko näkyvyys sienestämässä<br>-0.2 vahinko<br>masennus kasvaa",
+	Moodles_stress_desc_lvl4 = "90%^ Stressaantunut<br>huono näkyvyys sienestämässä<br>-0.3 vahinko<br>masennus kasvaa nopeasti",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "6%^ Paniikki<br>lievästi heikompi näkyvyys sienestämässä<br>-1.3% kriitinen. Mahdollisuus<br>hidastettu lataus nopeus<br>hidastettu pumppaus nopeus",
+	Moodles_panic_desc_lvl2 = "30%^ Paniikki<br>heikompi näkyvyys sienestämässä<br>-2.6% kriitinen. Mahdollisuus<br>-0.1 lähitaistelu vahinko<br>nousee seisomaan nopeammin<br>huonompi takaisku<br>huonompi takaisku mahdollisuus<br>huonompi tarkkuus<br>hidastettu lataus nopeus<br>hidastettu pumppaus nopeus",
+	Moodles_panic_desc_lvl3 = "65%^ Paniikki<br>heikko näkyvyys sienestämässä<br>-3.9% kriitinen. Mahdollisuus<br>-0.2 lähitaistelu vahinko<br>-0.4 pitkänmatkan vahinko (jos tähtäyksen taso on alle 6)<br>nousee seisomaan nopeammin<br>huonompi takaisku<br>huonompi takaisku mahdollisuus<br>huonompi tarkkuus<br>hidastettu lataus nopeus<br>hidastettu pumppaus nopeus",
+	Moodles_panic_desc_lvl4 = "80%^ Paniikki<br>huono näkyvyys sienestämässä<br>-5.2% kriitinen. Mahdollisuus<br>-0.3 lähitaistelu vahinko<br>-0.6 pitkänmatkan vahinko (jos tähtäyksen taso on alle 6)<br>nousee seisomaan nopeammin<br>näkyvyys supenee<br>huonompi takaisku<br>huonompi takaisku mahdollisuus<br>huonompi tarkkuus<br>hidastettu lataus nopeus<br>hidastettu pumppaus nopeus",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%^ Märkä<br>ei vaikutuksia",
+	Moodles_wet_desc_lvl2 = "40%^ Märkä<br>lievä riski vilustua",
+	Moodles_wet_desc_lvl3 = "70%^ Märkä<br>riski vilustua",
+	Moodles_wet_desc_lvl4 = "90%^ Märkä<br>erittäin todennäköistä vilustua",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ Vilustunut<br>aivastelua ja rykimistä",
+	Moodles_hasacold_desc_lvl2 = "40%^ Vilustunut<br>aivastelua ja rykimistä enemmän",
+	Moodles_hasacold_desc_lvl3 = "60%^ Vilustunut<br>aivastelua ja rykimistä useasti<br>-20% nopeus<br>-20% hitaampi parantuminen",
+	Moodles_hasacold_desc_lvl4 = "75%^ Vilustunut<br>aivastelua ja rykimistä paljon<br>-35% nopeus<br>-35% hitaampi parantuminen",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ Ilmaantuvuus<br>lievästi heikompi näkyvyys sienestämässä<br>lievä kehon lämpö<br>might lose HP",
+	Moodles_sick_desc_lvl2 = "50%^ Ilmaantuvuus<br>heikompi näkyvyys sienestämässä<br>kehon lämpö nousee lievästi<br>-1 kuorman kanto kyky<br>-35% nopeampi parantuminen<br>HP menettäminen mahdollista",
+	Moodles_sick_desc_lvl3 = "75%^ Ilmaantuvuus<br>heikko näkyvyys sienestämässä<br>korkea kasvu kehon lämmössä<br>-2 kuorman kanto kyky<br>-60% nopeampi parantuminen<br>HP menettäminen mahdollista",
+	Moodles_sick_desc_lvl4 = "90%^ Ilmaantuvuus<br>huono näkyvyys sienestämässä<br>todella korkea kasvu kehon lämmössä<br>-3 kuorman kanto kyky<br>HP menettäminen mahdollista",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80%v HP<br>ei vaikutuksia",
+	Moodles_injured_desc_lvl2 = "60%v HP<br>-1 kuorman kanto kyky",
+	Moodles_injured_desc_lvl3 = "40%v HP<br>-2 kuorman kanto kyky",
+	Moodles_injured_desc_lvl4 = "25%v HP<br>-3 kuorman kanto kyky",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "10%^ kivuissa<br>lievästi heikompi näkyvyys sienestämässä<br>+5% kaatumis mahdollisuus kiivetessä",
+	Moodles_pain_desc_lvl2 = "20%^ kivuissa<br>heikompi näkyvyys sienestämässä<br>+10% kaatumis mahdollisuus kiivetessä<br>-15% vahinko<br>-15% hyökkäys nopeus<br>-15% nopeus<br>estetty nukkuminen",
+	Moodles_pain_desc_lvl3 = "50%^ kivuissa<br>heikko näkyvyys sienestämässä<br>+15% kaatumis mahdollisuus kiivetessä<br>-20% vahinko<br>-15% hyökkäys nopeus<br>-15% nopeus<br>estetty nukkuminen",
+	Moodles_pain_desc_lvl4 = "75%^ kivuissa<br>huono näkyvyys sienestämässä<br>+20% kaatumis mahdollisuus kiivetessä<br>-35% vahinko<br>-15% hyökkäys nopeus<br>-15% nopeus<br>estetty nukkuminen<br>estetty kuntoilu",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "osa kehostasi vuotaa verta<br>hidas HP menetys",
+	Moodles_bleed_desc_lvl2 = "kaksi osaa kehostasi vuotaa verta<br>-1 kuorman kanto kyky<br>menetät HP",
+	Moodles_bleed_desc_lvl3 = "kolme osaa kehostasi vuotaa verta<br>-1 kuorman kanto kyky<br>menetät HP nopeasti",
+	Moodles_bleed_desc_lvl4 = "neljä tai enemmän kehosi osia vuotaa verta<br>-1 kuorman kanto kyky<br>menetät HP todella nopeasti",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "kehon lämpötila 37.5°C<br>väsyt helpommin<br>jano kasvaa",
+	Moodles_hyperthermia_desc_lvl2 = "kehon lämpötila 39°C<br>väsyt nopeasti<br>jano kasvaa nopeammin<br>-34% hyökkäys nopeus<br>-34% nopeus",
+	Moodles_hyperthermia_desc_lvl3 = "kehon lämpötila 40°C<br>väsyt todella nopeasti<br>jano kasvaa nopeasti<br>-67% hyökkäys nopeus<br>-67% nopeus",
+	Moodles_hyperthermia_desc_lvl4 = "kehon lämpötila 41°C<br>väsyt erittäin nopeasti<br>jano kasvaa todella nopeasti<br>-90% hyökkäys nopeus<br>-100% nopeus<br>menetät HP",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "kehon lämpötila 36.5°C<br>ei vaikutuksia",
+	Moodles_hypothermia_desc_lvl2 = "kehon lämpötila 35°C<br>-34% hyökkäys nopeus<br>-34% nopeus<br>lievä riski vilustua",
+	Moodles_hypothermia_desc_lvl3 = "kehon lämpötila 30°C<br>-67% hyökkäys nopeus<br>-67% nopeus<br>riski vilustua",
+	Moodles_hypothermia_desc_lvl4 = "kehon lämpötila 25°C<br>-90% hyökkäys nopeus<br>-100% nopeus<br>erittäin todennäköistä vilustua<br>menetät HP",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5°C kylmempi miltä tuntuu",
+	Moodles_windchill_desc_lvl2 = "10°C kylmempi miltä tuntuu",
+	Moodles_windchill_desc_lvl3 = "15°C kylmempi miltä tuntuu",
+	Moodles_windchill_desc_lvl4 = "20°C kylmempi miltä tuntuu",
+	-- Dead
+	Moodles_dead_lvl1 = "Lepää rauhassa.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Viimeinen lopputulos.",
+}
