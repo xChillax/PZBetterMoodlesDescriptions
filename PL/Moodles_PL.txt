@@ -1,10 +1,10 @@
 Moodles_PL = {
   -- Description of moodle:
   -- Endurance
-  Moodles_endurance_desc_lvl1 = "Wyczerpanie 25%^<br>lekko ograniczona widoczność w trybie zbieractwa<br>-50% obrażeń wręcz<br>-7% szybkości ataku<br>+10% szansy na potknięcie się podczas biegu i skakania<br>-5% szansy na wspinanie się po wysokich płotach<br>-19% prędkości poruszania<br>-2% szansy na zablokowanie ataku zombi od przodu",
-  Moodles_endurance_desc_lvl2 = "Wyczerpanie 50%^<br>zmniejszone i ciemniejsze pole widzenia w trybie zbieractwa<br>-80% obrażeń wręcz<br>-14% szybkości ataku<br>+20% szansy na potknięcie podczas biegu i skakania<br>-10% szansy na wspinanie się po wysokich płotach<br>-37% prędkości poruszania<br>-4% szansy na blokowanie ataków zombi od przodu<br>nie można biec",
-  Moodles_endurance_desc_lvl3 = "Wyczerpanie 75%^<br>okropne i ciemniejsze pole widzenia w trybie zbieractwa<br>-90% obrażeń wręcz<br>-21% szybkości ataku<br>+30% szansy na potknięcie podczas biegu i skakania<br>-15% szansy na wspinanie się po wysokich płotach<br>-56% prędkości poruszania<br>-6% szansy na blokowanie ataków zombiaków od przodu<br>nie można biec<br>nie można sprintować<br>nie można szybko chodzić<br>nie można ćwiczyć",
-  Moodles_endurance_desc_lvl4 = "Wyczerpanie 90%^<br>okropne i ciemniejsze pole widzenia w trybie zbieractwa<br>-95% obrażeń wręcz<br>-28% szybkości ataku<br>+40% szansy na potknięcie podczas biegu i skakania<br>-20% szansy na wspinanie się po wysokich płotach<br>-75% prędkości poruszania<br>-8% szansy na blokowanie ataków zombiaków od przodu<br>nie można biec<br>nie można sprintować<br>nie można szybko chodzić<br>nie można ćwiczyć<br>nie można używać ciężkich broni",
+  Moodles_endurance_desc_lvl1 = "Wyczerpanie 25%^<br>lekko ograniczona widoczność w trybie zbieractwa<br>-50% obrażeń wręcz<br>-7% szybkości ataku<br>+10% szansy na potknięcie się podczas biegu i skakania<br>-5% szansy udanego wspinania<br>-19% prędkości poruszania<br>-2% szansy na zablokowanie ataku zombie od przodu",
+  Moodles_endurance_desc_lvl2 = "Wyczerpanie 50%^<br>zmniejszone i ciemniejsze pole widzenia w trybie zbieractwa<br>-80% obrażeń wręcz<br>-14% szybkości ataku<br>+20% szansy na potknięcie podczas biegu i skakania<br>-10% szansy udanego wspinania<br>-37% prędkości poruszania<br>-4% szansy na blokowanie ataków zombie od przodu<br>nie można biec",
+  Moodles_endurance_desc_lvl3 = "Wyczerpanie 75%^<br>mocno ograniczone pole widzenia w trybie zbieractwa<br>-90% obrażeń wręcz<br>-21% szybkości ataku<br>+30% szansy na potknięcie podczas biegu i skakania<br>-15% szansy udanego wspinania<br>-56% prędkości poruszania<br>-6% szansy na blokowanie ataków zombie od przodu<br>nie można biec<br>nie można sprintować<br>nie można szybko chodzić<br>nie można ćwiczyć",
+  Moodles_endurance_desc_lvl4 = "Wyczerpanie 90%^<br>maksymalnie ograniczone pole widzenia w trybie zbieractwa<br>-95% obrażeń wręcz<br>-28% szybkości ataku<br>+40% szansy na potknięcie podczas biegu i skakania<br>-20% szansy udanego wspinania<br>-75% prędkości poruszania<br>-8% szansy na blokowanie ataków zombie od przodu<br>nie można biec<br>nie można sprintować<br>nie można szybko chodzić<br>nie można ćwiczyć<br>nie można używać ciężkich broni",
   -- Heavy load
   Moodles_heavyload_desc_lvl1 = "100%^ Powyżej pojemności postaci<br>-5% szans na krytyczne trafienie<br>-7% szybkość ataku<br>+13% szansa na potknięcie się podczas przeskakiwania przeszkód<br>-8% szansy na potknięcie podczas biegu i skakania<br>-19% prędkość poruszania<br>-2% szansa na zablokowanie ataków zombie od przodu<br>zmniejszona regeneracja wytrzymałości",
   Moodles_heavyload_desc_lvl2 = "125%^ Powyżej pojemności postaci<br>-10% szans na krytyczne trafienie<br>-14% szybkość ataku<br>+26% szansa na potknięcie się podczas przeskakiwania przeszkód<br>-16% szansy na potknięcie podczas biegu i skakania<br>-37% prędkość poruszania<br>-4% szansa na zablokowanie ataków zombie od przodu<br>znacznie zmniejszona regeneracja wytrzymałości<br>nie można sprintować",
@@ -13,7 +13,7 @@ Moodles_PL = {
   -- Tired
   Moodles_tired_desc_lvl1 = "Zmęczenie 60%^<br>lekko zredukowane i ciemniejsze widoczność podczas trybu zbieractwa<br>-50% obrażeń wręcz<br>lekko obniżona celność<br>lekko obniżone pole widzenie<br>zmniejszone tempo regeneracji wytrzymałości<br>-3% szansy na blokowanie ataków zombie z przodu",
   Moodles_tired_desc_lvl2 = "Zmęczenie 70%^<br>znacznie zredukowane i ciemniejsze widzenie podczas trybu zbieractwa<br>-80% obrażeń wręcz<br>znacznie obniżona celność<br>znacznie obniżone pole widzenie<br>znacznie zredukowane tempo regeneracji wytrzymałości<br>-6% szansy na blokowanie ataków zombie z przodu",
-  Moodles_tired_desc_lvl3 = "Zmęczenie 80%^<br>straszliwie zmniejszone i ciemniejsze widzenie podczas trybu zbieractwa<br>-90% obrażeń wręcz<br>straszliwie obniżona celność<br>straszliwie obniżone pole widzenie<br>straszliwie zmniejszone tempo regeneracji wytrzymałości<br>możesz spać pomimo wysokiego bólu<br>-9% szansy na blokowanie ataków zombie z przodu",
+  Moodles_tired_desc_lvl3 = "Zmęczenie 80%^<br>mocno zmniejszone i ciemniejsze widzenie podczas trybu zbieractwa<br>-90% obrażeń wręcz<br>mocno obniżona celność<br>mocno obniżone pole widzenie<br>mocno zmniejszone tempo regeneracji wytrzymałości<br>możesz spać pomimo wysokiego bólu<br>-9% szansy na blokowanie ataków zombie z przodu",
   Moodles_tired_desc_lvl4 = "Zmęczenie 90%^<br>straszliwie zmniejszone i ciemniejsze widzenie podczas trybu zbieractwa<br>-95% obrażeń wręcz<br>straszliwie obniżona celność<br>straszliwie obniżone pole widzenie<br>nie możesz regenerować wytrzymałości<br>możesz spać pomimo wysokiego bólu<br>-12% szansy na blokowanie ataków zombie z przodu",
   -- CantSprint
   Moodles_CantSprint_desc = "ciężkie ubrania, torby lub przedmioty spowalniają cię!<br>nie możesz sprintować",
@@ -24,8 +24,8 @@ Moodles_PL = {
   Moodles_thirst_desc_lvl4 = "Spragnienie 84%^<br>-2 punkty pojemności ekwipunku<br>-100% prędkości gojenia ran<br>szybki wzrost temperatury ciała<br>utrata punktów zdrowia",
   -- Hungry
   Moodles_hungry_desc_lvl1 = "Głód 15%^<br>Brak efektów",
-  Moodles_hungry_desc_lvl2 = "Głód 25%^<br>-1 punkt pojemności ekpipuku<br>-15% generowania ciała ciała<br>-35% prędkości leczenia",
-  Moodles_hungry_desc_lvl3 = "Głód 45%^<br>-2 punkty pojemności ekpipuku<br>-35% generowania ciała ciała<br>-60% prędkości leczenia",
+  Moodles_hungry_desc_lvl2 = "Głód 25%^<br>-1 punkt pojemności ekpipuku<br>-15% generowania ciepła ciała<br>-35% prędkości leczenia",
+  Moodles_hungry_desc_lvl3 = "Głód 45%^<br>-2 punkty pojemności ekpipuku<br>-35% generowania ciepła ciała<br>-60% prędkości leczenia",
   Moodles_hungry_desc_lvl4 = "Głód 70%^<br>-2 punkty pojemności ekpipuku<br>-50% generowania ciepła ciała<br>-100% prędkości leczenia<br>tracisz punkty życia",
   -- Food eaten
   Moodles_foodeaten_desc_lvl1 = "13 sekund sytości<br>+2 punkty pojemności ekwipunku<br>+15% prędkości leczenia",
@@ -69,7 +69,7 @@ Moodles_PL = {
   Moodles_wet_desc_lvl4 = "Mokro 90%^<br>duża szansa na przeziębienie",
   -- Has a cold
   Moodles_hasacold_desc_lvl1 = "20%^ przeziębienia<br>kichanie i kaszel",
-  Moodles_hasacold_desc_lvl2 = "40%^ przeziębienia<br>kichanie i kaszel częściej",
+  Moodles_hasacold_desc_lvl2 = "40%^ przeziębienia<br>kichanie i częstszy kaszel",
   Moodles_hasacold_desc_lvl3 = "60%^ przeziębienia<br>częste kichanie i kaszel<br>-20% prędkości poruszania<br>-20% wolniejsze gojenie się ran",
   Moodles_hasacold_desc_lvl4 = "75%^ przeziębienia<br>wiele kichania i kaszlu<br>-35% prędkości poruszania<br>-35% wolniejsze gojenie się ran",
   -- Sickness
@@ -84,9 +84,9 @@ Moodles_PL = {
   Moodles_injured_desc_lvl4 = "25%v HP<br>-3 punktów pojemność ekwipunku",
   -- Pain
   Moodles_pain_desc_lvl1 = "10%^ Bólu<br>nieznacznie ograniczona widoczność w trybie zbieractwa<br>+5% szansa na potknięcie się podczas biegu i skakania",
-  Moodles_pain_desc_lvl2 = "20%^ Bólu<br>ograniczona widoczność w trybie zbieractwa<br>+10% szansa na potknięcie się podczas biegu i skakania<br>-15% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>niemożliwe do spania",
-  Moodles_pain_desc_lvl3 = "50%^ Bólu<br>znacznie ograniczona widoczność w trybie zbieractwa<br>+15% szansa na potknięcie się podczas biegu i skakania<br>-20% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>niemożliwe do spania",
-  Moodles_pain_desc_lvl4 = "75%^ Bólu<br>straszliwie ograniczona widoczność w trybie zbieractwa<br>+20% szansa na potknięcie się podczas biegu i skakania<br>-35% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>niemożliwe do spania<br>niemożliwe do ćwiczeń",
+  Moodles_pain_desc_lvl2 = "20%^ Bólu<br>ograniczona widoczność w trybie zbieractwa<br>+10% szansa na potknięcie się podczas biegu i skakania<br>-15% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>nie możesz zasnąć",
+  Moodles_pain_desc_lvl3 = "50%^ Bólu<br>znacznie ograniczona widoczność w trybie zbieractwa<br>+15% szansa na potknięcie się podczas biegu i skakania<br>-20% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>nie możesz zasnąć",
+  Moodles_pain_desc_lvl4 = "75%^ Bólu<br>straszliwie ograniczona widoczność w trybie zbieractwa<br>+20% szansa na potknięcie się podczas biegu i skakania<br>-35% obrażeń ataku<br>-15% szybkość ataku<br>-15% prędkość poruszania się<br>nie możesz zasnąć<br>nie możesz ćwiczyć",
   -- Bleeding
   Moodles_bleed_desc_lvl1 = "jedna część twojego ciała krwawi<br>wolno tracisz punkty zdrowia",
   Moodles_bleed_desc_lvl2 = "dwie części twojego ciała krwawią<br>-1 punkt pojemności ekwipunku<br>tracisz punkty zdrowia",
