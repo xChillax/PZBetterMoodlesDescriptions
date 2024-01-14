@@ -1,0 +1,109 @@
+Moodles_HU = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "-50% ütés dmg.<br>-0.07 támadási sebesség<br>+10% elesés esély<br>-5% mászás esély<br>-15% sebesség",
+	Moodles_endurance_desc_lvl2 = "-80% ütés dmg.<br>-0.14 támadási sebesség<br>+20% elesés esély<br>-10% mászás esély<br>-30% sebesség<br>sprint kikapcsolva",
+	Moodles_endurance_desc_lvl3 = "-90% ütés dmg.<br>-0.21 támadási sebesség<br>+30% elesés esély<br>-15% mászás esély<br>-45% sebesség<br>gyors séta/edzés kikapcsolva",
+	Moodles_endurance_desc_lvl4 = "-95% ütés dmg.<br>-0.28 támadási sebesség<br>+40% elesés esély<br>-20% mászás esély<br>-60% sebesség<br>gyors séta/edzés/nehéz fegyverek kikapcsolva",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "-5% krit. esély<br>-0.07 támadási sebesség<br>+13% elesés esély<br>-8% mászás esély<br>-15% sebesség<br>kevesebb kitartás",
+	Moodles_heavyload_desc_lvl2 = "-10% krit. esély<br>-0.14 támadási sebesség<br>+26% elesés esély<br>-16% mászás esély<br>-30% sebesség<br>kevesebb kitartás<br>sprint kikapcsolva<br>HP vesztés",
+	Moodles_heavyload_desc_lvl3 = "-15% krit. esély<br>-0.21 támadási sebesség<br>+39% elesés esély<br>-24% mászás esély<br>-45% sebesség<br>kevesebb kitartás<br>futás/edzés kikapcsolva<br>HP vesztés",
+	Moodles_heavyload_desc_lvl4 = "-20% krit. esély<br>-0.28 támadási sebesség<br>+52% elesés esély<br>-32% mászás esély<br>-60% sebesség<br>kevesebb kitartás<br>futás/edzés kikapcsolva<br>HP vesztés",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "-50% ütés dmg.<br>látás & fókusz csökkentve<br>izomláz növekedése<br>lassú a kitartás növekedése",
+	Moodles_tired_desc_lvl2 = "-80% ütés dmg.<br>látás & fókusz csökkentve more<br>izomláz növekedése<br>lassabb a kitartás növekedése",
+	Moodles_tired_desc_lvl3 = "-90% ütés dmg.<br>látás & fókusz csökkentve even more<br>izomláz növekedése<br>even lassabb a kitartás növekedése<br>fájdalommal is lehet aludni",
+	Moodles_tired_desc_lvl4 = "-95% ütés dmg.<br>nagyon csökkentett látás & nem látsz magad mögé<br>izomláz növekedése<br>kitartás növekedés kikapcsolva<br>fájdalommal is lehet aludni",
+	-- CantSprint
+	Moodles_CantSprint_desc = " Nehéz felszerelés leterhel téged! sprint kikapcsolva",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "13%^ Szomjas, nincs effektje",
+	Moodles_thirst_desc_lvl2 = "25%^ Szomjas<br>-10% erőnlét<br>-10% gyógyulás<br>test hő növekedés",
+	Moodles_thirst_desc_lvl3 = "70%^ Szomjas<br>-20% erőnlét<br>-20% gyógyulás<br>test hő gyors növekedés",
+	Moodles_thirst_desc_lvl4 = "85%^ Szomjas<br>-20% erőnlét<br>-30% gyógyulás<br>test hő nagyon gyorsan növeked<br>HP vesztés",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ éhes, nincs effektje",
+	Moodles_hungry_desc_lvl2 = "25%^ éhes<br>-10% erőnlét<br>-15% test hő<br>-10% gyógyulás",
+	Moodles_hungry_desc_lvl3 = "45%^ éhes<br>-20% erőnlét<br>-35% test hő<br>-20% gyógyulás",
+	Moodles_hungry_desc_lvl4 = "70%^ éhes<br>-20% erőnlét<br>-50% test hő<br>-30% gyógyulás<br>HP vesztés",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "+2 tárolás hely<br>+15% gyógyulás",
+	Moodles_foodeaten_desc_lvl2 = "+2 tárolás hely<br>+30% gyógyulás",
+	Moodles_foodeaten_desc_lvl3 = "+2 tárolás hely<br>+45% gyógyulás<br>nem ehet többet",
+	Moodles_foodeaten_desc_lvl4 = "+2 tárolás hely<br>+60% gyógyulás<br>nem ehet többet",
+	-- berúgott
+	Moodles_drunk_desc_lvl1 = "10%^ berúgott<br>unalom kicsit csökken<br>kicsi fáradtság & jármű irányítás delay<br>pontosság & test hő csökken",
+	Moodles_drunk_desc_lvl2 = "30%^ berúgott<br>unalom csökken<br>fáradtság & jármű irányítás delay<br>pontosság & test hő decreases",
+	Moodles_drunk_desc_lvl3 = "50%^ berúgott<br>unalom gyorsan csökken<br>nagy fáradtság & jármű irányítás delay<br>pontosság & test hő nagyon csökken",
+	Moodles_drunk_desc_lvl4 = "70%^ berúgott<br>unalom nagyon gyorsan csökken<br>nagyon nagy fáradtság & jármű irányítás delay<br>pontosság & test hő méh jöbban csökken",
+	-- Unalom
+	Moodles_bored_desc_lvl1 = "25%^ Unalom, nincs effektje",
+	Moodles_bored_desc_lvl2 = "50%^ Unalom<br>boldogtalanság nő",
+	Moodles_bored_desc_lvl3 = "75%^ Unalom<br>boldogtalanság nagyon nő",
+	Moodles_bored_desc_lvl4 = "90%^ Unalom<br>boldogtalanság határozottan nő",
+	-- boldogtalanság
+	Moodles_unhappy_desc_lvl1 = "20%^ boldogtalanság<br>-10% tevékenység sebesség",
+	Moodles_unhappy_desc_lvl2 = "45%^ boldogtalanság<br>-20% tevékenység sebesség",
+	Moodles_unhappy_desc_lvl3 = "60%^ boldogtalanság<br>-30% tevékenység sebesség",
+	Moodles_unhappy_desc_lvl4 = "80%^ boldogtalanság<br>-40% tevékenység sebesség",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%^ Stressz, nincs effektje",
+	Moodles_stress_desc_lvl2 = "50%^ Stressz<br>-10% ütés dmg.<br>boldogtalanság nő",
+	Moodles_stress_desc_lvl3 = "75%^ Stressz<br>-20% ütés dmg.<br>boldogtalanság nagyon nő",
+	Moodles_stress_desc_lvl4 = "90%^ Stressz<br>-30% ütés dmg.<br>boldogtalanság határozottan nő",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "-1,3% pánik<br>roszabb újratöltés",
+	Moodles_panic_desc_lvl2 = "-2,3% pánik<br>-10% ütés dmg.<br>gyorsabban áll fel<br>roszabb lökés/elesés esély/pontosság/újratöltés",
+	Moodles_panic_desc_lvl3 = "-3,9% pánik<br>-20% ütés dmg.<br>gyorsabban áll fel<br>roszabb lökés/elesés esély/pontosság/újratöltés",
+	Moodles_panic_desc_lvl4 = "-5,2% pánik<br>-30% ütés dmg.<br>gyorsabban áll fel<br>látás szűkül<br>roszabb lökés/elesés esély/pontosság/újratöltés",
+	-- Vizes
+	Moodles_Vizes_desc_lvl1 = "15%^ Vizes, nincs effektje",
+	Moodles_Vizes_desc_lvl2 = "40%^ Vizes<br>kiss esély megfázásra",
+	Moodles_Vizes_desc_lvl3 = "70%^ Vizes<br>esély megfázásra",
+	Moodles_Vizes_desc_lvl4 = "90%^ Vizes<br>magas esély megfázásra",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ megfázás<br>tüsszent/köhög",
+	Moodles_hasacold_desc_lvl2 = "40%^ megfázás<br>többet tüsszent/köhög",
+	Moodles_hasacold_desc_lvl3 = "60%^ megfázás<br>gyakran tüsszent/köhög<br>-20% sebesség & gyógyulás",
+	Moodles_hasacold_desc_lvl4 = "80%^ megfázás<br>sokat tüsszent/köhög<br>-35% sebesség & gyógyulás",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ Betegség, alacsony test hő növekedés, eséy HP vesztésre",
+	Moodles_sick_desc_lvl2 = "50%^ Betegség, test hő növekedés, -10% erőnlét, -1 tárolás hely, -10% gyógyulás, eséy HP vesztésre",
+	Moodles_sick_desc_lvl3 = "75%^ Betegség, magas test hő növekedés, -20% erőnlét, -2 tárolás hely, -20% gyógyulás, eséy HP vesztésre",
+	Moodles_sick_desc_lvl4 = "100% Betegség, nagyon magas test hő növekedés, -30% erőnlét, -3 tárolás hely, eséy HP vesztésre",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80% HP, nincs effektje",
+	Moodles_injured_desc_lvl2 = "60% HP<br>-10% erőnlét",
+	Moodles_injured_desc_lvl3 = "40% HP<br>-20% erőnlét",
+	Moodles_injured_desc_lvl4 = "25% HP<br>-30% erőnlét",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "+5% elesés esély",
+	Moodles_pain_desc_lvl2 = "+10% elesés esély<br>-15% támadás dmg-spd/sebesség<br>alvás kikapcsolva",
+	Moodles_pain_desc_lvl3 = "+15% elesés esély<br>-20% támadás dmg-spd/sebesség<br>alvás kikapcsolva",
+	Moodles_pain_desc_lvl4 = "+20% elesés esély<br>-35% támadás dmg-spd/sebesség<br>alvás/edzés kikapcsolva",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "lassú HP vesztés",
+	Moodles_bleed_desc_lvl2 = "-10% erőnlét<br>HP vesztés",
+	Moodles_bleed_desc_lvl3 = "-10% erőnlét<br>gyors HP vesztés",
+	Moodles_bleed_desc_lvl4 = "-10% erőnlét<br>nagyon gyors HP vesztés",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Hőmérséklet 37.5°C<br>szomjúság nő",
+	Moodles_hyperthermia_desc_lvl2 = "Hőmérséklet 39°C<br>szomjúság jobban nő<br>-34% támadási sebesség<br>-34% sebesség",
+	Moodles_hyperthermia_desc_lvl3 = "Hőmérséklet 40°C<br>szomjúság nagyon nő<br>-67% támadási sebesség<br>-67% sebesség",
+	Moodles_hyperthermia_desc_lvl4 = "Hőmérséklet 41°C<br>szomjúság határozottan nő<br>-90% támadási sebesség<br>-100% sebesség<br>HP vesztés",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Hőmérséklet 36.5°C, nincs effektje",
+	Moodles_hypothermia_desc_lvl2 = "Hőmérséklet 35°C<br>-34% támadási sebesség<br>-34% sebesség<br>alacsony esély megfázásra",
+	Moodles_hypothermia_desc_lvl3 = "Hőmérséklet 30°C<br>-67% támadási sebesség<br>-67% sebesség<br>esély megfázásra",
+	Moodles_hypothermia_desc_lvl4 = "Hőmérséklet 25°C<br>-90% támadási sebesség<br>-100% sebesség<br>magas esély megfázásra<br>HP vesztés",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5-10°C-kal hidegebb mint valójábban",
+	Moodles_windchill_desc_lvl2 = "10-15°C-kal hidegebb mint valójábban",
+	Moodles_windchill_desc_lvl3 = "15-20°C-kal hidegebb mint valójábban",
+	Moodles_windchill_desc_lvl4 = "20°C-kal hidegebb mint valójábban",
+	-- Dead
+	Moodles_dead_lvl1 = "Nyugodjék békében.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "A legrosszabb végződés.",
+}
