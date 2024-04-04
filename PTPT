@@ -108,7 +108,7 @@ Moodles_PTPT = {
 	Moodles_windchill_desc_lvl3 = "15°C mais frio do que normal",
 	Moodles_windchill_desc_lvl4 = "20°C mais frio do que normal",
 	-- Dead
-	Moodles_dead_lvl1 = "Descanca em paz.",
+	Moodles_dead_lvl1 = "Descansa em paz.",
 	-- Zombified
 	Moodles_zombie_lvl1 = "O pior final.",
 }
