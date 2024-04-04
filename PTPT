@@ -1,0 +1,114 @@
+Moodles_PTPT = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "25%^ Exausto<br>visao de procura um pouco reduzida<br>-50% dano corpo a corpo<br>-7% velocidade de ataque<br>+10% probabilidade de tropecar<br>-5% probabilidade de escalar gradeamentos<br>-19% velocidade<br>-2% probabilidade de bloquear ataques frontais de zombies",
+	Moodles_endurance_desc_lvl2 = "50%^ Exausto<br>visao de procura reduzida<br>-80% dano corpo a corpo<br>-14% velocidade de ataque<br>+20% probabilidade de tropecar<br>-10% probabilidade de escalar gradeamentos<br>-37% velocidade<br>-4% probabilidade de bloquear ataques frontais de zombies<br>nao podes sprintar",
+	Moodles_endurance_desc_lvl3 = "75%^ Exausto<br>visao de procura muito reduzida<br>-90% dano corpo a corpo<br>-21% velocidade de ataque<br>+30% probabilidade de tropecar<br>-15% probabilidade de escalar gradeamentos<br>-56% velocidade<br>-6% probabilidade de bloquear ataques frontais de zombies<br>nao podes sprintar<br>nao podes correr<br>nao podes andar depressa<br>nao podes fazer exercicio",
+	Moodles_endurance_desc_lvl4 = "90%^ Exausto<br>visao de procura horrivelmente reduzida<br>-95% dano corpo a corpo<br>-28% velocidade de ataque<br>+40% probabilidade de tropecar<br>-20% probabilidade de escalar gradeamentos<br>-75% velocidade<br><br>-8% probabilidade de bloquear ataques frontais de zombies<br>nao podes sprintar<br>nao podes correr<br>nao podes andar depressa<br>nao podes fazer exercicio<br>nao podes usar armas pesadas",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "100%^ Acima da capacidade<br>-5% prob. de critico<br>-7% velocidade de ataque<br>+13% probabilidade de tropecar<br>-8% probabilidade de escalar gradeamentos<br>-19% velocidade<br>-2% probabilidade de bloquear ataques frontais de zombies",
+	Moodles_heavyload_desc_lvl2 = "125%^ Acima da capacidade<br>-10% prob. de critico<br>-14% velocidade de ataque<br>+26% probabilidade de tropecar<br>-16% probabilidade de escalar gradeamentos<br>-37% velocidade<br>-4% probabilidade de bloquear ataques frontais de zombies<br>recuperacao de resistencia severamente reduzida<br>nao pode sprintar",
+	Moodles_heavyload_desc_lvl3 = "150%^ Acima da capacidade<br>-15% prob. de critico<br>-21% velocidade de ataque<br>+39% probabilidade de tropecar<br>-24% probabilidade de escalar gradeamentos<br>-56% velocidade<br>-6% probabilidade de bloquear ataques frontais de zombies<br>nao pode recuperar resistencia<br>nao pode correr<br>nao pode fazer exercicio<br>a perder vida",
+	Moodles_heavyload_desc_lvl4 = "175%^ Acima da capacidade<br>-20% prob. de critico<br>-28% velocidade de ataque<br>+52% probabilidade de tropecar<br>-32% probabilidade de escalar gradeamentos<br>-75% velocidade<br>-8% probabilidade de bloquear ataques frontais de zombies<br>a perder resistencia<br>nao pode correr<br>nao pode fazer exercicio<br>a perder vida",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "60%^ Cansado<br>visao de procura um pouco reduzida<br>-50% dano corpo a corpo<br>pontaria um pouco reduzida<br>visao um pouco reduzida<br>atencao reduzida<br>aumento da rigidez muscular<br>recuperacao de resistencia reduzida<br>-3% probabilidade de bloquear ataques frontais de zombies",
+	Moodles_tired_desc_lvl2 = "70%^ Cansado<br>visao de procura reduzida<br>-80% dano corpo a corpo<br>pontaria reduzida<br>visao reduzida<br>atencao muito reduzida<br>aumento da rigidez muscular<br>recuperacao de resistencia severamente reduzida<br>-6% probabilidade de bloquear ataques frontais de zombies",
+	Moodles_tired_desc_lvl3 = "80%^ Cansado<br>visao de procura muito reduzida<br>-90% dano corpo a corpo<br>pontaria muito reduzida<br>visao muito reduzida<br>atencao horrivel<br>aumento da rigidez muscular<br>recuperacao de resistencia horrivelmente reduzida<br>consegues dormir apesar de ter muitas dores<br>-9% probabilidade de bloquear ataques frontais de zombies",
+	Moodles_tired_desc_lvl4 = "90%^ Cansado<br>visao de procura horrivelmente reduzida<br>-95% dano corpo a corpo<br>pontaria horrivel<br>visao horrivel<br>nao consegues ver atras de ti<br>aumento da rigidez muscular<br>nao pode recuperar resistencia<br>consegues dormir apesar de ter muitas dores<br>-12% probabilidade de bloquear ataques frontais de zombies",
+	-- CantSprint
+	Moodles_CantSprint_desc = "roupa pesada, sacos, ou itens estao a deixar-te mais lento!<br>nao podes sprintar",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "12%^ Um pouco de sede<br>sem efeitos adversos",
+	Moodles_thirst_desc_lvl2 = "25%^ Com sede<br>-1 capacidade de carga<br>-35% rapidez de cura<br>aumento de temperatura corporal",
+	Moodles_thirst_desc_lvl3 = "70%^ Sedento<br>-2 capacidade de carga<br>-65% rapidez de cura<br>aumento rapido da temperatura corporal ",
+	Moodles_thirst_desc_lvl4 = "84%^ A morrer de sede<br>-2 capacidade de carga<br>-100% rapidez de cura<br>aumento muito rapido da temperatura corporal<br>a perder vida",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ Um pouco de fome<br>+7.5% visao de procura para encontrar comida",
+	Moodles_hungry_desc_lvl2 = "25%^ Com fome<br>+12.5% visao de procura para encontrar comida<br>-1 capacidade de carga<br>-15% temperatura corporal<br>-35% rapidez de cura",
+	Moodles_hungry_desc_lvl3 = "45%^ Esfomeado<br>+22.5% visao de procura para encontrar comida<br>-2 capacidade de carga<br>-35% temperatura corporal<br>-60% rapidez de cura",
+	Moodles_hungry_desc_lvl4 = "70%^ A morrer de fome<br>+35% visao de procura para encontrar comida<br>-2 capacidade de carga<br>-50% temperatura corporal<br>-100% rapidez de cura<br>a perder vida",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "13 segundos de barriga cheia<br>+2 capacidade de carga<br>+15% rapidez de cura",
+	Moodles_foodeaten_desc_lvl2 = "14,6 segundos de barriga cheia<br>+2 capacidade de carga<br>+30% rapidez de cura",
+	Moodles_foodeaten_desc_lvl3 = "16,2 segundos de barriga cheia<br>+2 capacidade de carga<br>+45% rapidez de cura<br>nao consegues comer mais",
+	Moodles_foodeaten_desc_lvl4 = "17,8 segundos de barriga cheia<br>+2 capacidade de carga<br>+60% rapidez de cura<br>nao consegues comer mais",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%^ Bebado<br>visao de procura um pouco reduzida<br>aborrecimento a baixar lentamente<br>um pouco de fadiga<br>controlo no volante um pouco reduzido<br>pontaria um pouco reduzida<br>temperatura corporal a reduzir um pouco",
+	Moodles_drunk_desc_lvl2 = "30%^ Bebado<br>visao de procura reduzida<br>aborrecimento a baixar<br>com fadiga<br>controlo no volante reduzido<br>pontaria reduzida<br>temperatura corporal a reduzir",
+	Moodles_drunk_desc_lvl3 = "50%^ Bebado<br>visao de procura muito reduzida<br>aborrecimento a baixar rapidamente<br>a ficar com muita fadiga<br>controlo no volante muito reduzido<br>pontaria muito reduzida<br>temperatura corporal a reduzir rapidamente",
+	Moodles_drunk_desc_lvl4 = "70%^ Bebado<br>Tas todo cego!<br>aborrecimento a baixar muito*hick*<br>que canseira...<br>melhor chamar um Uber<br>nao dispares que ainda ficas sem um olho!<br>impressao minha ou esta um briol?",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%^ Aborrecido<br>sem efeitos adversos",
+	Moodles_bored_desc_lvl2 = "50%^ Aborrecido<br>infelicidade a aumentar um pouco",
+	Moodles_bored_desc_lvl3 = "75%^ Aborrecido<br>infelicidade a aumentar",
+	Moodles_bored_desc_lvl4 = "90%^ Aborrecido<br>infelicidade a aumentar rapidamente",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%^ Infeliz<br>-10% accoes lentas",
+	Moodles_unhappy_desc_lvl2 = "45%^ Infeliz<br>-20% accoes lentas",
+	Moodles_unhappy_desc_lvl3 = "60%^ Infeliz<br>-30% accoes lentas",
+	Moodles_unhappy_desc_lvl4 = "80%^ Infeliz<br>-40% accoes lentas",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "25%^ Zangado<br>sem efeitos",
+	Moodles_angry_desc_lvl2 = "50%^ Zangado<br>sem efeitos",
+	Moodles_angry_desc_lvl3 = "75%^ Zangado<br>sem efeitos",
+	Moodles_angry_desc_lvl4 = "90%^ Zangado<br>sem efeitos",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%^ Stressado<br>visao de procura um pouco reduzida",
+	Moodles_stress_desc_lvl2 = "50%^ Stressado<br>visao de procura reduzida<br>-0.1 dano<br>infelicidade a aumentar um pouco",
+	Moodles_stress_desc_lvl3 = "75%^ Stressado<br>visao de procura muito reduzida<br>-0.2 dano<br>infelicidade a aumentar",
+	Moodles_stress_desc_lvl4 = "90%^ Stressado<br>visao de procura horrivelmente reduzida<br>-0.3 dano<br>infelicidade a aumentar rapidamente",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "6%^ Em panico<br>visao de procura um pouco reduzida<br>-1.3% prob. de critico<br>pior tempo de recarga e de velocidade",
+	Moodles_panic_desc_lvl2 = "30%^ Em panico<br>visao de procura um pouco reduzida<br>-2.6% prob. de critico<br>-0.1 dano corpo a corpo<br>levanta-se mais rapidamente<br>empurrar mais fraco<br>maior probabilidade de ser derrubado<br>pior pontaria<br>pior tempo de recarga e de velocidade",
+	Moodles_panic_desc_lvl3 = "65%^ Em panico<br>visao de procura reduzida<br>-3.9% prob. de critico<br>-0.2 dano corpo a corpo<br>-0.4 dano a distancia (se nivel de pontaria estiver abaixo do 6)<br>levanta-se mais rapidamente<br>empurrar mais fraco<br>maior probabilidade de ser derrubado<br>pior pontaria<br>pior tempo de recarga e de velocidade",
+	Moodles_panic_desc_lvl4 = "80%^ Em panico<br>visao de procura horrivelmente reduzida<br>-5.2% prob. de critico<br>-0.3 dano corpo a corpo<br>-0.6 dano a distancia (se nivel de pontaria estiver abaixo do 6)<br>levanta-se mais rapidamente<br>visao estreita<br>empurrar mais fraco<br>maior probabilidade de ser derrubado<br>pior pontaria<br>pior tempo de recarga e de velocidade",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%^ Molhado<br>sem efeitos adversos",
+	Moodles_wet_desc_lvl2 = "40%^ Molhado<br>pequena probabilidade de apanhar constipacao",
+	Moodles_wet_desc_lvl3 = "70%^ Molhado<br>probabilidade de apanhar constipacao",
+	Moodles_wet_desc_lvl4 = "90%^ Molhado<br>grande probabilidade de apanhar constipacao",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ constipacao<br>espirros e tosse",
+	Moodles_hasacold_desc_lvl2 = "40%^ constipacao<br>mais espirros e tosse",
+	Moodles_hasacold_desc_lvl3 = "60%^ constipacao<br>espirros e tosse com mais frequencia<br>-20% velocidade<br>-20% cura mais lenta",
+	Moodles_hasacold_desc_lvl4 = "75%^ constipacao<br>espirros e tosse a toda a hora<br>-35% velocidade<br>-35% cura mais lenta",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ Incidencia<br>visao de procura um pouco reduzida<br>um pouco de aumento de temperatura corporal<br>pode comecar a perder vida",
+	Moodles_sick_desc_lvl2 = "50%^ Incidencia<br>visao de procura reduzida<br>aumento de temperatura corporal<br>-1 capacidade de carga<br>-35% rapidez de cura<br>pode comecar a perder vida",
+	Moodles_sick_desc_lvl3 = "75%^ Incidencia<br>visao de procura muito reduzida<br>aumento rapido de temperatura corporal<br>-2 capacidade de carga<br>-60% rapidez de cura<br>pode comecar a perder vida",
+	Moodles_sick_desc_lvl4 = "90%^ Incidencia<br>visao de procura horrivelmente reduzida<br>aumento muito rapido da temperatura corporal<br>-3 capacidade de carga<br>pode comecar a perder vida",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80%v Vida<br>sem efeitos adversos",
+	Moodles_injured_desc_lvl2 = "60%v Vida<br>-1 capacidade de carga",
+	Moodles_injured_desc_lvl3 = "40%v Vida<br>-2 capacidade de carga",
+	Moodles_injured_desc_lvl4 = "25%v Vida<br>-3 capacidade de carga",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "10%^ de Dores<br>visao de procura um pouco reduzida<br>+5% probabilidade de tropecar",
+	Moodles_pain_desc_lvl2 = "20%^ de Dores<br>visao de procura reduzida<br>+10% probabilidade de tropecar<br>-15% dano de ataque<br>-15% velocidade de ataque<br>-15% velocidade<br>nao pode dormir",
+	Moodles_pain_desc_lvl3 = "50%^ de Dores<br>visao de procura muito reduzida<br>+15% probabilidade de tropecar<br>-20% dano de ataque<br>-15% velocidade de ataque<br>-15% velocidade<br>nao pode dormir",
+	Moodles_pain_desc_lvl4 = "75%^ de Dores<br>visao de procura horrivelmente reduzida<br>+20% probabilidade de tropecar<br>-35% dano de ataque<br>-15% velocidade de ataque<br>-15% velocidade<br>nao pode dormir<br>nao pode fazer exercicio",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "uma parte do teu corpo esta a sangrar<br>a perder vida lentamente",
+	Moodles_bleed_desc_lvl2 = "duas partes do teu corpo estao a sangrar<br>-1 capacidade de carga<br>a perder vida",
+	Moodles_bleed_desc_lvl3 = "tres partes do teu corpo estao a sangrar<br>-1 capacidade de carga<br>a perder vida rapidamente",
+	Moodles_bleed_desc_lvl4 = "quatro partes do teu corpo estao a sangrar<br>-1 capacidade de carga<br>a perder vida muito rapidamente",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "37.5°C de temperatura<br>cansas-te facilmente<br>aumento de sede",
+	Moodles_hyperthermia_desc_lvl2 = "39°C de temperatura<br>cansas-te mais facilmente<br>maior aumento de sede<br>-34% velocidade de ataque<br>-34% velocidade",
+	Moodles_hyperthermia_desc_lvl3 = "40°C de temperatura<br>cansas-te rapidamente<br>rapido aumento de sede<br>-67% velocidade de ataque<br>-67% velocidade",
+	Moodles_hyperthermia_desc_lvl4 = "41°C de temperatura<br>cansas-te mais rapidamente<br>sede a aumentar muito rapidamente<br>-90% velocidade de ataque<br>-100% velocidade<br>a perder vida",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "36.5°C de temperatura<br>sem efeitos adversos",
+	Moodles_hypothermia_desc_lvl2 = "35°C de temperatura<br>-34% velocidade de ataque<br>-34% velocidade<br>pequena probabilidade de apanhar constipacao",
+	Moodles_hypothermia_desc_lvl3 = "30°C de temperatura<br>-67% velocidade de ataque<br>-67% velocidade<br>probabilidade de apanhar constipacao",
+	Moodles_hypothermia_desc_lvl4 = "25°C de temperatura<br>-90% velocidade de ataque<br>-100% velocidade<br>grande probabilidade de apanhar constipacao<br>a perder vida",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5°C mais frio do que normal",
+	Moodles_windchill_desc_lvl2 = "10°C mais frio do que normal",
+	Moodles_windchill_desc_lvl3 = "15°C mais frio do que normal",
+	Moodles_windchill_desc_lvl4 = "20°C mais frio do que normal",
+	-- Dead
+	Moodles_dead_lvl1 = "Descanca em paz.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "O pior final.",
+}
