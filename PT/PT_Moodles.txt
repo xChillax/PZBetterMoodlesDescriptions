@@ -1,4 +1,4 @@
-Moodles_PTPT = {
+Moodles_PT = {
 	-- Description of moodle:
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "25%^ Exausto<br>visao de procura um pouco reduzida<br>-50% dano corpo a corpo<br>-7% velocidade de ataque<br>+10% probabilidade de tropecar<br>-5% probabilidade de escalar gradeamentos<br>-19% velocidade<br>-2% probabilidade de bloquear ataques frontais de zombies",
