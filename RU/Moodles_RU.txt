@@ -109,7 +109,7 @@ Moodles_RU = {
 	Moodles_windchill_lvl2 = "Сильный ветер",
 	Moodles_windchill_lvl3 = "Ледяной ветер",
 	Moodles_windchill_lvl4 = "Ужасный ветер",
-	
+
 	-- Description of moodle
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "-50%	Урон холодным оружием<br>-0.07 скорость атак<br>10% шанс споткнутся<br>5% шанс не перелезть<br>-15% к скорости передвижения",
@@ -123,7 +123,7 @@ Moodles_RU = {
 	Moodles_angry_desc_lvl4 = "Есть шанс устроить бой",
 	-- Stress
 	Moodles_stress_desc_lvl1 = "Стресс 25%, никаких эффектов",
-	Moodles_stress_desc_lvl2 = "Стресс 50%<br>-10% Урон холодным оружием<br>несчастье наростает",
+	Moodles_stress_desc_lvl2 = "Стресс 50%<br>-10% Урон холодным оружием<br>несчастье нарАстает",
 	Moodles_stress_desc_lvl3 = "Стресс 75%<br>-20% Урон холодным оружием<br>несчастье растёт",
 	Moodles_stress_desc_lvl4 = "Стресс 90%<br>-30% Урон холодным оружием<br>несчастье настигает пика.",
 	-- Thirsty
